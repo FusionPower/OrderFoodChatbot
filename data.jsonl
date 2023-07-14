@@ -1,0 +1,1289 @@
+{"prompt": "I'd like two burritos and one taco, please.", "completion": " 2 Your order is: two burritos, one taco.###"}
+{"prompt": "Can I get three slices of pepperoni pizza and a coke?", "completion": " 2 Your order is: three slices of pepperoni pizza, one coke.###"}
+{"prompt": "How 'bout one large cheeseburger and a serving of onion rings?", "completion": " 2 Your order is: one large cheeseburger, one serving of onion rings.###"}
+{"prompt": "I'm in the mood for a single portion of fish and chips and a pint of lager.", "completion": " 2 Your order is: one portion of fish and chips, one pint of lager.###"}
+{"prompt": "One espresso and two cannoli, grazie!", "completion": " 2 Your order is: one espresso, two cannoli.###"}
+{"prompt": "Could I please get one caesar salad and a glass of white wine?", "completion": " 2 Your order is: one Caesar salad, one glass of white wine.###"}
+{"prompt": "I'd fancy a cup of tea and two scones, mate.", "completion": " 2 Your order is: one cup of tea, two scones.###"}
+{"prompt": "Might I order a dozen oysters and a bottle of champagne?", "completion": " 2 Your order is: twelve oysters, one bottle of champagne.###"}
+{"prompt": "Let me get a cup of black coffee and a serving of blueberry muffins.", "completion": " 2 Your order is: one cup of black coffee, one serving of blueberry muffins.###"}
+{"prompt": "I'd like a slice of carrot cake and a latte, please.", "completion": " 2 Your order is: one slice of carrot cake, one latte.###"}
+{"prompt": "Could I have a single spaghetti carbonara and a glass of red wine?", "completion": " 2 Your order is: one spaghetti carbonara, one glass of red wine.###"}
+{"prompt": "I want two falafel wraps and one bottle of water.", "completion": " 2 Your order is: two falafel wraps, one bottle of water.###"}
+{"prompt": "Can I get one serving of chicken tikka masala and two garlic naan?", "completion": " 2 Your order is: one serving of chicken tikka masala, two garlic naan.###"}
+{"prompt": "I'll take a medium rare steak and a baked potato.", "completion": " 2 Your order is: one medium rare steak, one baked potato.###"}
+{"prompt": "Could I have a single roast beef sandwich and a bag of chips?", "completion": " 2 Your order is: one roast beef sandwich, one bag of chips.###"}
+{"prompt": "I would like to order a salmon sushi roll and a bowl of miso soup.", "completion": " 2 Your order is: one salmon sushi roll, one bowl of miso soup.###"}
+{"prompt": "I want one chicken Caesar wrap and a small fries.", "completion": " 2 Your order is: one chicken Caesar wrap, one small fries.###"}
+{"prompt": "May I have a bowl of tomato soup and a grilled cheese sandwich?", "completion": " 2 Your order is: one bowl of tomato soup, one grilled cheese sandwich.###"}
+{"prompt": "Could I get a BBQ chicken pizza and a diet coke?", "completion": " 2 Your order is: one BBQ chicken pizza, one diet coke.###"}
+{"prompt": "I'll have a chicken parmigiana and a side of spaghetti.", "completion": " 2 Your order is: one chicken parmigiana, one side of spaghetti.###"}
+{"prompt": "I'll take a Philly cheesesteak and a side of coleslaw.", "completion": " 2 Your order is: one Philly cheesesteak, one side of coleslaw.###"}
+{"prompt": "I'd like two orders of the shrimp scampi and a tiramisu.", "completion": " 2 Your order is: two orders of shrimp scampi, one tiramisu.###"}
+{"prompt": "Could I have a bento box and a cup of green tea?", "completion": " 2 Your order is: one bento box, one cup of green tea.###"}
+{"prompt": "I'll take two bratwursts and a side of sauerkraut.", "completion": " 2 Your order is: two bratwursts, one side of sauerkraut.###"}
+{"prompt": "Could I have a chicken shawarma wrap and a side of hummus?", "completion": " 2 Your order is: one chicken shawarma wrap, one side of hummus.###"}
+{"prompt": "I'd like a ham and cheese croissant and a cappuccino.", "completion": " 2 Your order is: one ham and cheese croissant, one cappuccino.###"}
+{"prompt": "Can I get one order of chicken and waffles and a sweet tea?", "completion": " 2 Your order is: one order of chicken and waffles, one sweet tea.###"}
+{"prompt": "I'll have a margherita pizza and a side of garlic knots.", "completion": " 2 Your order is: one margherita pizza, one side of garlic knots.###"}
+{"prompt": "Could I have an order of chicken pad thai and a Thai iced tea?", "completion": " 2 Your order is: one order of chicken pad Thai, one Thai iced tea.###"}
+{"prompt": "I'd like a veggie stir fry and a cup of hot and sour soup.", "completion": " 2 Your order is: one veggie stir fry, one cup of hot and sour soup.###"}
+{"prompt": "Can I get two lobster rolls and a side of coleslaw?", "completion": " 2 Your order is: two lobster rolls, one side of coleslaw.###"}
+{"prompt": "I'd like a pastrami on rye and a side of potato salad.", "completion": " 2 Your order is: one pastrami on rye, one side of potato salad.###"}
+{"prompt": "Could I get a plate of chicken alfredo and a Caesar salad?", "completion": " 2 Your order is: one plate of chicken alfredo, one Caesar salad.###"}
+{"prompt": "I'll take two beef tacos and a side of refried beans.", "completion": " 2 Your order is: two beef tacos, one side of refried beans.###"}
+{"prompt": "Could I have a meatball sub and a side of chips?", "completion": " 2 Your order is: one meatball sub, one side of chips.###"}
+{"prompt": "I'd like a plate of beef and broccoli and a bowl of wonton soup.", "completion": " 2 Your order is: one plate of beef and broccoli, one bowl of wonton soup.###"}
+{"prompt": "Can I get a Cubano sandwich and a side of plantain chips?", "completion": " 2 Your order is: one Cubano sandwich, one side of plantain chips.###"}
+{"prompt": "I'll have a bowl of clam chowder and a lobster roll.", "completion": " 2 Your order is: one bowl of clam chowder, one lobster roll.###"}
+{"prompt": "Could I get a Greek salad and a cup of lentil soup?", "completion": " 2 Your order is: one Greek salad, one cup of lentil soup.###"}
+{"prompt": "I'd like a BLT sandwich and a side of potato chips.", "completion": " 2 Your order is: one BLT sandwich, one side of potato chips.###"}
+{"prompt": "Can I get a plate of chicken souvlaki and a Greek salad?", "completion": " 2 Your order is: one plate of chicken souvlaki, one Greek salad.###"}
+{"prompt": "I'll take a gyro platter and a side of tzatziki sauce.", "completion": " 2 Your order is: one gyro platter, one side of tzatziki sauce.###"}
+{"prompt": "Could I have a turkey club sandwich and a side of coleslaw?", "completion": " 2 Your order is: one turkey club sandwich, one side of coleslaw.###"}
+{"prompt": "I'd like a cheese quesadilla and a side of guacamole.", "completion": " 2 Your order is: one cheese quesadilla, one side of guacamole.###"}
+{"prompt": "Can I get a falafel platter and a side of tabouli?", "completion": " 2 Your order is: one falafel platter, one side of tabouli.###"}
+{"prompt": "I'll have a plate of spaghetti and meatballs and a side of garlic bread.", "completion": " 2 Your order is: one plate of spaghetti and meatballs, one side of garlic bread.###"}
+{"prompt": "Could I get a Reuben sandwich and a side of potato chips?", "completion": " 2 Your order is: one Reuben sandwich, one side of potato chips.###"}
+{"prompt": "I'd like a grilled chicken Caesar salad and a side of pita bread.", "completion": " 2 Your order is: one grilled chicken Caesar salad, one side of pita bread.###"}
+{"prompt": "Can I get a plate of beef stir fry and a side of spring rolls?", "completion": " 2 Your order is: one plate of beef stir fry, one side of spring rolls.###"}
+{"prompt": "I'll have a plate of fettuccine alfredo and a Caesar salad.", "completion": " 2 Your order is: one plate of fettuccine alfredo, one Caesar salad.###"}
+{"prompt": "Could I get a plate of chicken fried rice and a side of egg rolls?", "completion": " 2 Your order is: one plate of chicken fried rice, one side of egg rolls.###"}
+{"prompt": "I'd like a plate of shrimp scampi and a side of garlic bread.", "completion": " 2 Your order is: one plate of shrimp scampi, one side of garlic bread.###"}
+{"prompt": "Can I get a plate of chicken teriyaki and a side of veggie tempura?", "completion": " 2 Your order is: one plate of chicken teriyaki, one side of veggie tempura.###"}
+{"prompt": "I'll have a club sandwich and a side of potato salad.", "completion": " 2 Your order is: one club sandwich, one side of potato salad.###"}
+{"prompt": "Could I get a plate of fish and chips and a side of mushy peas?", "completion": " 2 Your order is: one plate of fish and chips, one side of mushy peas.###"}
+{"prompt": "I'd like a Philly cheesesteak and a side of onion rings.", "completion": " 2 Your order is: one Philly cheesesteak, one side of onion rings.###"}
+{"prompt": "Can I get a grilled cheese sandwich and a side of tomato soup?", "completion": " 2 Your order is: one grilled cheese sandwich, one side of tomato soup.###"}
+{"prompt": "I'll have a chicken burrito and a side of chips and salsa.", "completion": " 2 Your order is: one chicken burrito, one side of chips and salsa.###"}
+{"prompt": "Could I get a plate of beef nachos and a side of guacamole?", "completion": " 2 Your order is: one plate of beef nachos, one side of guacamole.###"}
+{"prompt": "I'd like a turkey sub and a side of macaroni salad.", "completion": " 2 Your order is: one turkey sub, one side of macaroni salad.###"}
+{"prompt": "Can I get a bowl of chicken noodle soup and a side of breadsticks?", "completion": " 2 Your order is: one bowl of chicken noodle soup, one side of breadsticks.###"}
+{"prompt": "I'll have a bowl of chili and a side of cornbread.", "completion": " 2 Your order is: one bowl of chili, one side of cornbread.###"}
+{"prompt": "Could I get a ham and cheese omelet and a side of toast?", "completion": " 2 Your order is: one ham and cheese omelet, one side of toast.###"}
+{"prompt": "I'd like a plate of biscuits and gravy and a side of scrambled eggs.", "completion": " 2 Your order is: one plate of biscuits and gravy, one side of scrambled eggs.###"}
+{"prompt": "Can I get a chicken parmesan sandwich and a side of fries?", "completion": " 2 Your order is: one chicken parmesan sandwich, one side of fries.###"}
+{"prompt": "I'll have a veggie pizza and a side of breadsticks.", "completion": " 2 Your order is: one veggie pizza, one side of breadsticks.###"}
+{"prompt": "Could I get a plate of chicken parmesan and a side of spaghetti?", "completion": " 2 Your order is: one plate of chicken parmesan, one side of spaghetti.###"}
+{"prompt": "I'd like a bowl of chicken curry and a side of naan.", "completion": " 2 Your order is: one bowl of chicken curry, one side of naan.###"}
+{"prompt": "Can I get a chicken gyro and a side of Greek salad?", "completion": " 2 Your order is: one chicken gyro, one side of Greek salad.###"}
+{"prompt": "I'll have a plate of shrimp etouffee and a side of hush puppies.", "completion": " 2 Your order is: one plate of shrimp etouffee, one side of hush puppies.###"}
+{"prompt": "Could I get a plate of chicken fajitas and a side of refried beans?", "completion": " 2 Your order is: one plate of chicken fajitas, one side of refried beans.###"}
+{"prompt": "I'd like a bowl of clam chowder and a side of garlic bread.", "completion": " 2 Your order is: one bowl of clam chowder, one side of garlic bread.###"}
+{"prompt": "Can I get a chicken Caesar wrap and a side of sweet potato fries?", "completion": " 2 Your order is: one chicken Caesar wrap, one side of sweet potato fries.###"}
+{"prompt": "I'll have a tuna melt and a side of potato chips.", "completion": " 2 Your order is: one tuna melt, one side of potato chips.###"}
+{"prompt": "Could I get a plate of chicken marsala and a side of garlic mashed potatoes?", "completion": " 2 Your order is: one plate of chicken marsala, one side of garlic mashed potatoes.###"}
+{"prompt": "I'd like a plate of beef stroganoff and a side of dinner rolls.", "completion": " 2 Your order is: one plate of beef stroganoff, one side of dinner rolls.###"}
+{"prompt": "Can I get a bowl of chicken alfredo and a side of garlic knots?", "completion": " 2 Your order is: one bowl of chicken alfredo, one side of garlic knots.###"}
+{"prompt": "I'll have a plate of chicken cordon bleu and a side of roasted vegetables.", "completion": " 2 Your order is: one plate of chicken cordon bleu, one side of roasted vegetables.###"}
+{"prompt": "Could I get a plate of beef enchiladas and a side of rice and beans?", "completion": " 2 Your order is: one plate of beef enchiladas, one side of rice and beans.###"}
+{"prompt": "I'd like a chicken gyro and a side of tzatziki sauce.", "completion": " 2 Your order is: one chicken gyro, one side of tzatziki sauce.###"}
+{"prompt": "Can I get a chicken souvlaki platter and a side of Greek salad?", "completion": " 2 Your order is: one chicken souvlaki platter, one side of Greek salad.###"}
+{"prompt": "I'll have a plate of chicken pad Thai and a side of spring rolls.", "completion": " 2 Your order is: one plate of chicken pad Thai, one side of spring rolls.###"}
+{"prompt": "Could I get a plate of shrimp and grits and a side of hush puppies?", "completion": " 2 Your order is: one plate of shrimp and grits, one side of hush puppies.###"}
+{"prompt": "I'd like a chicken quesadilla and a side of chips and salsa.", "completion": " 2 Your order is: one chicken quesadilla, one side of chips and salsa.###"}
+{"prompt": "Can I get a plate of chicken tikka masala and a side of naan?", "completion": " 2 Your order is: one plate of chicken tikka masala, one side of naan.###"}
+{"prompt": "I'll have a chicken Parmesan sub and a side of fries.", "completion": " 2 Your order is: one chicken Parmesan sub, one side of fries.###"}
+{"prompt": "Could I get a chicken pesto panini and a side of potato chips?", "completion": " 2 Your order is: one chicken pesto panini, one side of potato chips.###"}
+{"prompt": "I'd like a chicken shawarma platter and a side of hummus and pita?", "completion": " 2 Your order is: one chicken shawarma platter, one side of hummus and pita.###"}
+{"prompt": "Can I get a plate of chicken lo mein and a side of egg rolls?", "completion": " 2 Your order is: one plate of chicken lo mein, one side of egg rolls.###"}
+{"prompt": "I'll have a chicken Caesar salad and a side of garlic breadsticks.", "completion": " 2 Your order is: one chicken Caesar salad, one side of garlic breadsticks.###"}
+{"prompt": "Could I get a plate of chicken Alfredo and a side of garlic bread?", "completion": " 2 Your order is: one plate of chicken Alfredo, one side of garlic bread.###"}
+{"prompt": "I'd like a chicken and waffles platter and a side of collard greens?", "completion": " 2 Your order is: one chicken and waffles platter, one side of collard greens.###"}
+{"prompt": "Can I get a chicken kabob plate and a side of Greek salad?", "completion": " 2 Your order is: one chicken kabob plate, one side of Greek salad.###"}
+{"prompt": "I'll have a chicken teriyaki bowl and a side of miso soup.", "completion": " 2 Your order is: one chicken teriyaki bowl, one side of miso soup.###"}
+{"prompt": "Could I get a chicken souvlaki pita and a side of tzatziki sauce?", "completion": " 2 Your order is: one chicken souvlaki pita, one side of tzatziki sauce.###"}
+{"prompt": "I'd like a chicken and cheese quesadilla and a side of guacamole.", "completion": " 2 Your order is: one chicken and cheese quesadilla, one side of guacamole.###"}
+{"prompt": "Can I get a chicken piccata plate and a side of spaghetti?", "completion": " 2 Your order is: one chicken piccata plate, one side of spaghetti.###"}
+{"prompt": "I'll have a chicken parmesan sandwich and a side of onion rings.", "completion": " 2 Your order is: one chicken parmesan sandwich, one side of onion rings.###"}
+{"prompt": "Could I get a chicken salad sandwich and a side of chips?", "completion": " 2 Your order is: one chicken salad sandwich, one side of chips.###"}
+{"prompt": "I'd like a chicken satay platter and a side of peanut sauce.", "completion": " 2 Your order is: one chicken satay platter, one side of peanut sauce.###"}
+{"prompt": "Hello", "completion": " 1 Hi there! How may I assist you today?###"}
+{"prompt": "Hey", "completion": " 1 Hello! What can I get for you?###"}
+{"prompt": "Hi there", "completion": " 1 Hello! Ready to place your order?###"}
+{"prompt": "Howdy", "completion": " 1 Hi! How can I help you with your order?###"}
+{"prompt": "Greetings", "completion": " 1 Hello! What would you like to order?###"}
+{"prompt": "Good day", "completion": " 1 Hi there! How can I serve you today?###"}
+{"prompt": "Salutations", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Hiya", "completion": " 1 Hello! What are you craving today?###"}
+{"prompt": "Yo", "completion": " 1 Hi! What can I get you?###"}
+{"prompt": "Hola", "completion": " 1 Hello! How can I help you with your meal today?###"}
+{"prompt": "Good to see you", "completion": " 1 Hi! How can I help you with your food order today?###"}
+{"prompt": "Hi", "completion": " 1 Hi! What would you like to order today?###"}
+{"prompt": "Hello there", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Hey there", "completion": " 1 Hello! How can I assist your dining needs today?###"}
+{"prompt": "What's up?", "completion": " 1 Hi! What can I get for you today?###"}
+{"prompt": "How's it going?", "completion": " 1 Hello! Ready to place your order?###"}
+{"prompt": "Hi, how are you?", "completion": " 1 Hi there! What can I get started for you?###"}
+{"prompt": "Hey, how's your day?", "completion": " 1 Hello! What are you craving today?###"}
+{"prompt": "Good day, how are you?", "completion": " 1 Hi! What can I get you?###"}
+{"prompt": "Hi, what's new?", "completion": " 1 Hello! What would you like to order?###"}
+{"prompt": "Hello, what can I do for you?", "completion": " 1 Hi there! How can I serve you today?###"}
+{"prompt": "Hey, need any help?", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Hi there, what can I get you?", "completion": " 1 Hi! What are you craving today?###"}
+{"prompt": "Howdy, what will it be today?", "completion": " 1 Hello! What can I get you?###"}
+{"prompt": "Greetings, ready to order?", "completion": " 1 Hi! How can I help you with your meal today?###"}
+{"prompt": "Salutations, what will you have?", "completion": " 1 Hello! How can I help you with your food order today?###"}
+{"prompt": "Hiya, what are you in the mood for?", "completion": " 1 Hi! What would you like to order today?###"}
+{"prompt": "Yo, what's your order?", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Hola, what do you want to eat?", "completion": " 1 Hi there! How can I assist your dining needs today?###"}
+{"prompt": "Good to see you, what can I get you?", "completion": " 1 Hello! What can I get for you today?###"}
+{"prompt": "Hi, ready to order?", "completion": " 1 Hi! Ready to place your order?###"}
+{"prompt": "Hello there, what's your preference today?", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Hey there, what's your choice?", "completion": " 1 Hi! What are you craving today?###"}
+{"prompt": "What's up, what are you feeling like?", "completion": " 1 Hello! What can I get you?###"}
+{"prompt": "How's it going, what do you fancy?", "completion": " 1 Hi! How can I help you with your meal today?###"}
+{"prompt": "Hi, how are you, what will you have?", "completion": " 1 Hello! How can I help you with your food order today?###"}
+{"prompt": "Hey, how's your day, what will it be?", "completion": " 1 Hi! What would you like to order today?###"}
+{"prompt": "Good day, how are you, what do you want?", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Hi, what's new, ready to order?", "completion": " 1 Hi there! How can I assist your dining needs today?###"}
+{"prompt": "Hello, what can I do for you, what's your order?", "completion": " 1 Hello! What can I get for you today?###"}
+{"prompt": "Hey, need any help, what will you have?", "completion": " 1 Hi! Ready to place your order?###"}
+{"prompt": "Hi there, what can I get you, what do you want?", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Howdy, what will it be today, what do you fancy?", "completion": " 1 Hi! What are you craving today?###"}
+{"prompt": "Greetings, ready to order, what's your preference?", "completion": " 1 Hello! What can I get you?###"}
+{"prompt": "Salutations, what will you have, what's your choice?", "completion": " 1 Hi! How can I help you with your meal today?###"}
+{"prompt": "Hiya, what are you in the mood for, what do you want to eat?", "completion": " 1 Hello! How can I help you with your food order today?###"}
+{"prompt": "Yo, what's your order, ready to order?", "completion": " 1 Hi! What would you like to order today?###"}
+{"prompt": "Hola, what do you want to eat, what's your preference?", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Good to see you, what can I get you, what do you fancy?", "completion": " 1 Hi there! How can I assist your dining needs today?###"}
+{"prompt": "Hi, ready to order, what's your choice?", "completion": " 1 Hello! What can I get for you today?###"}
+{"prompt": "Ahoi, matey", "completion": " 1 Hello! How can I assist you with your order today?###"}
+{"prompt": "Hey dude", "completion": " 1 Hi! What can I get for you?###"}
+{"prompt": "Sup?", "completion": " 1 Hi there! Ready to place your order?###"}
+{"prompt": "Ahoy", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Hello mate", "completion": " 1 Hi! How may I assist you today?###"}
+{"prompt": "Heyya", "completion": " 1 Hi there! What would you like to order?###"}
+{"prompt": "Hi, good to see you", "completion": " 1 Hello! How can I serve you today?###"}
+{"prompt": "Ello, ello", "completion": " 1 Hi! What can I get started for you?###"}
+{"prompt": "Hey, ready to order?", "completion": " 1 Hello! What are you craving today?###"}
+{"prompt": "Hi, what can I get you?", "completion": " 1 Hi! What can I get you?###"}
+{"prompt": "Hello, what's your preference?", "completion": " 1 Hello! How can I help you with your meal today?###"}
+{"prompt": "Hey, what's your choice today?", "completion": " 1 Hi! How can I help you with your food order today?###"}
+{"prompt": "Hi, what are you feeling like?", "completion": " 1 Hi there! What would you like to order today?###"}
+{"prompt": "Hello there, what's your order?", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Hey there, ready for some food?", "completion": " 1 Hi! How can I assist your dining needs today?###"}
+{"prompt": "Hi, what will you have?", "completion": " 1 Hello! What can I get for you today?###"}
+{"prompt": "Hello, ready to place your order?", "completion": " 1 Hi! Ready to place your order?###"}
+{"prompt": "Hey, what do you fancy?", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Hi there, what's your order?", "completion": " 1 Hi! What are you craving today?###"}
+{"prompt": "Howdy, ready to order?", "completion": " 1 Hello! What can I get you?###"}
+{"prompt": "Greetings, what will you have?", "completion": " 1 Hi! How can I help you with your meal today?###"}
+{"prompt": "Salutations, what do you want to eat?", "completion": " 1 Hello! How can I help you with your food order today?###"}
+{"prompt": "Hiya, ready to place your order?", "completion": " 1 Hi! What would you like to order today?###"}
+{"prompt": "Yo, what's your choice?", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Hola, what do you fancy?", "completion": " 1 Hi there! How can I assist your dining needs today?###"}
+{"prompt": "Good to see you, what's your order?", "completion": " 1 Hello! What can I get for you today?###"}
+{"prompt": "Hi, what do you want?", "completion": " 1 Hi! Ready to place your order?###"}
+{"prompt": "Hello there, what will you have?", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Hey there, what's your preference?", "completion": " 1 Hi! What are you craving today?###"}
+{"prompt": "What's up, what do you want to eat?", "completion": " 1 Hello! What can I get you?###"}
+{"prompt": "How's it going, ready to order?", "completion": " 1 Hi! How can I help you with your meal today?###"}
+{"prompt": "Hi, how are you, what do you want?", "completion": " 1 Hello! How can I help you with your food order today?###"}
+{"prompt": "Hey, how's your day, what will you have?", "completion": " 1 Hi! What would you like to order today?###"}
+{"prompt": "Good day, how are you, ready to place your order?", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Hi, what's new, what do you fancy?", "completion": " 1 Hi there! How can I assist your dining needs today?###"}
+{"prompt": "Hello, what can I do for you, what's your preference?", "completion": " 1 Hello! What can I get for you today?###"}
+{"prompt": "Hey, need any help, what do you want to eat?", "completion": " 1 Hi! Ready to place your order?###"}
+{"prompt": "Hi there, what can I get you, ready to order?", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "Howdy, what will it be today, what's your order?", "completion": " 1 Hi! What are you craving today?###"}
+{"prompt": "Greetings, ready to order, what will you have?", "completion": " 1 Hello! What can I get you?###"}
+{"prompt": "Salutations, what will you have, what do you want?", "completion": " 1 Hi! How can I help you with your meal today?###"}
+{"prompt": "Hiya, what are you in the mood for, ready to order?", "completion": " 1 Hello! How can I help you with your food order today?###"}
+{"prompt": "Yo, what's your order, what do you fancy?", "completion": " 1 Hi! What would you like to order today?###"}
+{"prompt": "Hola, what do you want to eat, what's your choice?", "completion": " 1 Hello! What's your order for today?###"}
+{"prompt": "Good to see you, what can I get you, what do you want?", "completion": " 1 Hi there! How can I assist your dining needs today?###"}
+{"prompt": "Hi, ready to order, what's your preference?", "completion": " 1 Hello! What can I get for you today?###"}
+{"prompt": "Hello there, what's your order, ready to place your order?", "completion": " 1 Hi! Ready to place your order?###"}
+{"prompt": "Hey there, what's your choice, what do you fancy?", "completion": " 1 Hello! What can I get started for you?###"}
+{"prompt": "What's up, ready to order, what will you have?", "completion": " 1 Hi! What are you craving today?###"}
+{"prompt": "How's it going, what do you want to eat, what's your choice?", "completion": " 1 Hello! What can I get you?###"}
+{"prompt": "Can you tell me what's my current order?", "completion": " 3###"}
+{"prompt": "What have I ordered so far?", "completion": " 3###"}
+{"prompt": "What's in my order at the moment?", "completion": " 3###"}
+{"prompt": "Can you summarize my order please?", "completion": " 3###"}
+{"prompt": "What items are in my order now?", "completion": " 3###"}
+{"prompt": "Please list my current order.", "completion": " 3###"}
+{"prompt": "Could you remind me what I ordered?", "completion": " 3###"}
+{"prompt": "Tell me what's in my order.", "completion": " 3###"}
+{"prompt": "Can you review my order?", "completion": " 3###"}
+{"prompt": "What's the status of my order?", "completion": " 3###"}
+{"prompt": "What are the items I've ordered?", "completion": " 3###"}
+{"prompt": "I forgot my order, can you tell me what it is?", "completion": " 3###"}
+{"prompt": "What food have I ordered?", "completion": " 3###"}
+{"prompt": "Can you go over my order again?", "completion": " 3###"}
+{"prompt": "I'd like to check my order please.", "completion": " 3###"}
+{"prompt": "What's the rundown of my order?", "completion": " 3###"}
+{"prompt": "Please recap my order.", "completion": " 3###"}
+{"prompt": "Could you list the items in my order?", "completion": " 3###"}
+{"prompt": "I'd like a summary of my order.", "completion": " 3###"}
+{"prompt": "What's my order look like?", "completion": " 3###"}
+{"prompt": "Give me the details of my order.", "completion": " 3###"}
+{"prompt": "Please confirm my current order.", "completion": " 3###"}
+{"prompt": "I want to know what's in my order.", "completion": " 3###"}
+{"prompt": "Can you repeat my order please?", "completion": " 3###"}
+{"prompt": "Tell me the items in my current order.", "completion": " 3###"}
+{"prompt": "Could you tell me my order?", "completion": " 3###"}
+{"prompt": "What did I order again?", "completion": " 3###"}
+{"prompt": "I want to verify my order.", "completion": " 3###"}
+{"prompt": "Can you go through my order?", "completion": " 3###"}
+{"prompt": "What's included in my order?", "completion": " 3###"}
+{"prompt": "What's my current order?", "completion": " 3###"}
+{"prompt": "Can you review the items in my order?", "completion": " 3###"}
+{"prompt": "What's the detail of my order?", "completion": " 3###"}
+{"prompt": "Can you check my order?", "completion": " 3###"}
+{"prompt": "Could you confirm what's in my order?", "completion": " 3###"}
+{"prompt": "I want a recap of my order.", "completion": " 3###"}
+{"prompt": "What have I ordered until now?", "completion": " 3###"}
+{"prompt": "Give me an overview of my order.", "completion": " 3###"}
+{"prompt": "Please confirm the items in my order.", "completion": " 3###"}
+{"prompt": "What have I selected to eat?", "completion": " 3###"}
+{"prompt": "Can you give me the rundown of my order?", "completion": " 3###"}
+{"prompt": "What's in my current order?", "completion": " 3###"}
+{"prompt": "What exactly is my order?", "completion": " 3###"}
+{"prompt": "Could you tell me what I've ordered?", "completion": " 3###"}
+{"prompt": "Please describe my current order.", "completion": " 3###"}
+{"prompt": "I forgot what I ordered. Can you tell me?", "completion": " 3###"}
+{"prompt": "Tell me everything in my order.", "completion": " 3###"}
+{"prompt": "Could you read back my order?", "completion": " 3###"}
+{"prompt": "Can I have a rundown of my order?", "completion": " 3###"}
+{"prompt": "What does my current order consist of?", "completion": " 3###"}
+{"prompt": "I'd like to know the details of my order.", "completion": " 3###"}
+{"prompt": "Could you please repeat my order?", "completion": " 3###"}
+{"prompt": "Tell me what I've ordered.", "completion": " 3###"}
+{"prompt": "What items did I order?", "completion": " 3###"}
+{"prompt": "What's my order?", "completion": " 3###"}
+{"prompt": "I want to hear my order again.", "completion": " 3###"}
+{"prompt": "Please read my order back to me.", "completion": " 3###"}
+{"prompt": "Can you recap what's in my order?", "completion": " 3###"}
+{"prompt": "I need to know what I ordered.", "completion": " 3###"}
+{"prompt": "Could you tell me the details of my order?", "completion": " 3###"}
+{"prompt": "I've forgotten my order. Can you repeat it?", "completion": " 3###"}
+{"prompt": "What have I chosen?", "completion": " 3###"}
+{"prompt": "What's in my basket?", "completion": " 3###"}
+{"prompt": "Could you summarize my current order?", "completion": " 3###"}
+{"prompt": "What's the summary of my order?", "completion": " 3###"}
+{"prompt": "What's my order right now?", "completion": " 3###"}
+{"prompt": "Could you tell me what's in my order?", "completion": " 3###"}
+{"prompt": "Tell me my order.", "completion": " 3###"}
+{"prompt": "What's the status of my current order?", "completion": " 3###"}
+{"prompt": "Can you recall my order?", "completion": " 3###"}
+{"prompt": "Can you provide the details of my order?", "completion": " 3###"}
+{"prompt": "Please remind me what my order is.", "completion": " 3###"}
+{"prompt": "Can you tell me the items in my order?", "completion": " 3###"}
+{"prompt": "What items have I ordered?", "completion": " 3###"}
+{"prompt": "Can you refresh my memory on my order?", "completion": " 3###"}
+{"prompt": "Could you read my order back to me?", "completion": " 3###"}
+{"prompt": "What did I decide to order?", "completion": " 3###"}
+{"prompt": "Can I get a summary of my order?", "completion": " 3###"}
+{"prompt": "Could you tell me the contents of my order?", "completion": " 3###"}
+{"prompt": "What's included in my current order?", "completion": " 3###"}
+{"prompt": "What's my current food selection?", "completion": " 3###"}
+{"prompt": "What items are currently in my order?", "completion": " 3###"}
+{"prompt": "Could you list what I ordered?", "completion": " 3###"}
+{"prompt": "What's the breakdown of my order?", "completion": " 3###"}
+{"prompt": "What is in my order right now?", "completion": " 3###"}
+{"prompt": "Please review my current order.", "completion": " 3###"}
+{"prompt": "Could you go over what's in my order?", "completion": " 3###"}
+{"prompt": "Tell me the status of my order.", "completion": " 3###"}
+{"prompt": "What have I selected so far?", "completion": " 3###"}
+{"prompt": "Can you confirm my current order?", "completion": " 3###"}
+{"prompt": "I want to know the contents of my order.", "completion": " 3###"}
+{"prompt": "What's the detail of my current order?", "completion": " 3###"}
+{"prompt": "Can you repeat what's in my order?", "completion": " 3###"}
+{"prompt": "Can I check what's in my order?", "completion": " 3###"}
+{"prompt": "Could you please list the items in my order?", "completion": " 3###"}
+{"prompt": "What did I choose to eat?", "completion": " 3###"}
+{"prompt": "What's on my current order?", "completion": " 3###"}
+{"prompt": "Please recap what I've ordered.", "completion": " 3###"}
+{"prompt": "Can you read out my current order?", "completion": " 3###"}
+{"prompt": "What's currently in my order?", "completion": " 3###"}
+{"prompt": "I'd like to switch my fries for a salad.", "completion": " 4 one serving of fries//one salad###"}
+{"prompt": "Can I replace the veggie burger with a chicken sandwich?", "completion": " 4 one veggie burger//one chicken sandwich###"}
+{"prompt": "Actually, I want to change my coke to a sprite.", "completion": " 4 one coke//one sprite###"}
+{"prompt": "I've changed my mind, can I have a diet coke instead of a coke?", "completion": " 4 one coke//one diet coke###"}
+{"prompt": "Can I substitute the onion rings for sweet potato fries?", "completion": " 4 one serving of onion rings//one serving of sweet potato fries###"}
+{"prompt": "Please change my cheeseburger to a mushroom burger.", "completion": " 4 one cheeseburger//one mushroom burger###"}
+{"prompt": "Actually, swap the pepsi for an iced tea, please.", "completion": " 4 one pepsi//one iced tea###"}
+{"prompt": "Could I change my order? I'd like a salad instead of the soup.", "completion": " 4 one soup//one salad###"}
+{"prompt": "Can you swap my two cokes for two sprites?", "completion": " 4 two cokes//two sprites###"}
+{"prompt": "I'd like to change my order. Can I have a vegan burger instead of the beef burger?", "completion": " 4 one beef burger//one vegan burger###"}
+{"prompt": "Can I replace the pasta with a rice dish?", "completion": " 4 one serving of pasta//one serving of rice###"}
+{"prompt": "Please change my vanilla milkshake to a chocolate one.", "completion": " 4 one vanilla milkshake//one chocolate milkshake###"}
+{"prompt": "Can I substitute my order of chips with a baked potato?", "completion": " 4 one serving of chips//one baked potato###"}
+{"prompt": "Can you change my green tea to black tea?", "completion": " 4 one green tea//one black tea###"}
+{"prompt": "I want to replace the nachos with tacos.", "completion": " 4 one serving of nachos//one serving of tacos###"}
+{"prompt": "Actually, instead of the coffee, can I have a tea?", "completion": " 4 one coffee//one tea###"}
+{"prompt": "Could you swap the fried chicken for grilled chicken?", "completion": " 4 one fried chicken//one grilled chicken###"}
+{"prompt": "I'd like to substitute the mac and cheese for a Caesar salad.", "completion": " 4 one serving of mac and cheese//one Caesar salad###"}
+{"prompt": "Can I switch the hot dog for a chicken wrap?", "completion": " 4 one hot dog//one chicken wrap###"}
+{"prompt": "Please change my lemonade to an orange juice.", "completion": " 4 one lemonade//one orange juice###"}
+{"prompt": "Could I swap the apple pie for a banana split?", "completion": " 4 one apple pie//one banana split###"}
+{"prompt": "Can I change my sandwich to a panini?", "completion": " 4 one sandwich//one panini###"}
+{"prompt": "I want to switch my order of beer with a glass of red wine.", "completion": " 4 one beer//one glass of red wine###"}
+{"prompt": "Can you replace my two doughnuts with two croissants?", "completion": " 4 two doughnuts//two croissants###"}
+{"prompt": "Actually, can you change my iced coffee to a latte?", "completion": " 4 one iced coffee//one latte###"}
+{"prompt": "Can I swap the shrimp salad for a chicken salad?", "completion": " 4 one shrimp salad//one chicken salad###"}
+{"prompt": "Can I change my sparkling water to still water?", "completion": " 4 one sparkling water//one still water###"}
+{"prompt": "Please substitute my pizza for a calzone.", "completion": " 4 one pizza//one calzone###"}
+{"prompt": "I've changed my mind, can I have a hamburger instead of a cheeseburger?", "completion": " 4 one cheeseburger//one hamburger###"}
+{"prompt": "Could I replace my three tacos with three burritos?", "completion": " 4 three tacos//three burritos###"}
+{"prompt": "Can I substitute the waffles for pancakes?", "completion": " 4 one serving of waffles//one serving of pancakes###"}
+{"prompt": "Can I swap the fish and chips for a seafood paella?", "completion": " 4 one serving of fish and chips//one serving of seafood paella###"}
+{"prompt": "Please change my order of sushi to tempura.", "completion": " 4 one serving of sushi//one serving of tempura###"}
+{"prompt": "Can you replace my spaghetti bolognese with a lasagna?", "completion": " 4 one serving of spaghetti bolognese//one serving of lasagna###"}
+{"prompt": "Actually, can I swap the milk chocolate for dark chocolate?", "completion": " 4 one milk chocolate//one dark chocolate###"}
+{"prompt": "Could I substitute the red wine for white wine?", "completion": " 4 one red wine//one white wine###"}
+{"prompt": "Can I change my Caesar salad for a Greek salad?", "completion": " 4 one Caesar salad//one Greek salad###"}
+{"prompt": "Can I replace the fried rice with steamed rice?", "completion": " 4 one serving of fried rice//one serving of steamed rice###"}
+{"prompt": "Could you change my latte for a cappuccino?", "completion": " 4 one latte//one cappuccino###"}
+{"prompt": "Can you swap my sausage roll for a vegan sausage roll?", "completion": " 4 one sausage roll//one vegan sausage roll###"}
+{"prompt": "Can you please change my ramen to udon?", "completion": " 4 one serving of ramen//one serving of udon###"}
+{"prompt": "Actually, could you swap my espresso for an Americano?", "completion": " 4 one espresso//one Americano###"}
+{"prompt": "Can I change my caramel frappe to a vanilla frappe?", "completion": " 4 one caramel frappe//one vanilla frappe###"}
+{"prompt": "Could I replace my ice cream with a fruit salad?", "completion": " 4 one ice cream//one fruit salad###"}
+{"prompt": "Please change my smoothie to a fresh juice.", "completion": " 4 one smoothie//one fresh juice###"}
+{"prompt": "Can I substitute my blueberry muffin for a chocolate muffin?", "completion": " 4 one blueberry muffin//one chocolate muffin###"}
+{"prompt": "Can I change my steak for a grilled fish?", "completion": " 4 one steak//one grilled fish###"}
+{"prompt": "Could I swap my mojito for a margarita?", "completion": " 4 one mojito//one margarita###"}
+{"prompt": "Can I replace the bacon sandwich with a veggie sandwich?", "completion": " 4 one bacon sandwich//one veggie sandwich###"}
+{"prompt": "Actually, can I change my hot chocolate to a chai latte?", "completion": " 4 one hot chocolate//one chai latte###"}
+{"prompt": "I think I want to switch my garlic bread for some bruschetta.", "completion": " 4 one garlic bread//one bruschetta###"}
+{"prompt": "Could I replace the lemon tart with an apple pie?", "completion": " 4 one lemon tart//one apple pie###"}
+{"prompt": "Let's change the veggie pizza for a pepperoni pizza.", "completion": " 4 one veggie pizza//one pepperoni pizza###"}
+{"prompt": "Could I substitute the carrot cake for a chocolate cake?", "completion": " 4 one carrot cake//one chocolate cake###"}
+{"prompt": "Instead of the fish, could I get a chicken breast?", "completion": " 4 one fish//one chicken breast###"}
+{"prompt": "Can you switch the coffee for an herbal tea?", "completion": " 4 one coffee//one herbal tea###"}
+{"prompt": "I'd like to replace my order of nachos with a quesadilla.", "completion": " 4 one serving of nachos//one quesadilla###"}
+{"prompt": "Could we swap the apple juice for an orange juice?", "completion": " 4 one apple juice//one orange juice###"}
+{"prompt": "Can I change the strawberry milkshake to a banana milkshake?", "completion": " 4 one strawberry milkshake//one banana milkshake###"}
+{"prompt": "Actually, can I get a turkey sandwich instead of the ham sandwich?", "completion": " 4 one ham sandwich//one turkey sandwich###"}
+{"prompt": "Can I replace the fried eggs with scrambled eggs?", "completion": " 4 one serving of fried eggs//one serving of scrambled eggs###"}
+{"prompt": "I'd prefer a bagel instead of the toast.", "completion": " 4 one toast//one bagel###"}
+{"prompt": "Can I swap the croissant for a Danish?", "completion": " 4 one croissant//one Danish###"}
+{"prompt": "I think I'd rather have a baguette than a ciabatta.", "completion": " 4 one ciabatta//one baguette###"}
+{"prompt": "Can I change the chicken soup to a tomato soup?", "completion": " 4 one chicken soup//one tomato soup###"}
+{"prompt": "Actually, can I replace the mango smoothie with a berry smoothie?", "completion": " 4 one mango smoothie//one berry smoothie###"}
+{"prompt": "Could I swap the paella for a risotto?", "completion": " 4 one paella//one risotto###"}
+{"prompt": "I want to change the duck for the lamb.", "completion": " 4 one duck//one lamb###"}
+{"prompt": "Can I substitute the spaghetti for a penne pasta?", "completion": " 4 one spaghetti//one penne pasta###"}
+{"prompt": "I'd like to replace the ribeye steak with a filet mignon.", "completion": " 4 one ribeye steak//one filet mignon###"}
+{"prompt": "Can you swap the buttermilk pancakes for the blueberry pancakes?", "completion": " 4 one serving of buttermilk pancakes//one serving of blueberry pancakes###"}
+{"prompt": "Can I replace the tuna sandwich with a chicken sandwich?", "completion": " 4 one tuna sandwich//one chicken sandwich###"}
+{"prompt": "Please change my grilled cheese for a ham and cheese.", "completion": " 4 one grilled cheese//one ham and cheese###"}
+{"prompt": "Can I swap my cheese pizza for a margherita?", "completion": " 4 one cheese pizza//one margherita###"}
+{"prompt": "Could I replace the clam chowder with a lobster bisque?", "completion": " 4 one clam chowder//one lobster bisque###"}
+{"prompt": "Can I substitute the cappuccino for an espresso?", "completion": " 4 one cappuccino//one espresso###"}
+{"prompt": "I'd like to swap the beef burrito for a chicken burrito.", "completion": " 4 one beef burrito//one chicken burrito###"}
+{"prompt": "Please change the tuna salad for a chicken Caesar salad.", "completion": " 4 one tuna salad//one chicken Caesar salad###"}
+{"prompt": "Can I swap the shrimp stir fry for a chicken stir fry?", "completion": " 4 one shrimp stir fry//one chicken stir fry###"}
+{"prompt": "Could I replace the chocolate donut with a glazed donut?", "completion": " 4 one chocolate donut//one glazed donut###"}
+{"prompt": "Can I substitute the beef lasagna for a vegetable lasagna?", "completion": " 4 one beef lasagna//one vegetable lasagna###"}
+{"prompt": "Can I switch the grilled salmon for a baked cod?", "completion": " 4 one grilled salmon//one baked cod###"}
+{"prompt": "Please change my mocha for a flat white.", "completion": " 4 one mocha//one flat white###"}
+{"prompt": "Could I replace the cheese fries with sweet potato fries?", "completion": " 4 one serving of cheese fries//one serving of sweet potato fries###"}
+{"prompt": "Can I substitute the raspberry tart for a lemon meringue pie?", "completion": " 4 one raspberry tart//one lemon meringue pie###"}
+{"prompt": "Actually, I'd rather have a tuna melt instead of a Reuben sandwich.", "completion": " 4 one Reuben sandwich//one tuna melt###"}
+{"prompt": "Can I swap the Greek yogurt for a fruit parfait?", "completion": " 4 one Greek yogurt//one fruit parfait###"}
+{"prompt": "Could I replace the roast beef sandwich with a turkey club?", "completion": " 4 one roast beef sandwich//one turkey club###"}
+{"prompt": "I think I'd rather have a vegetable stir fry instead of a beef stir fry.", "completion": " 4 one beef stir fry//one vegetable stir fry###"}
+{"prompt": "Can I change the chicken wings to buffalo wings?", "completion": " 4 one serving of chicken wings//one serving of buffalo wings###"}
+{"prompt": "Could you swap my pepperoni stromboli for a veggie stromboli?", "completion": " 4 one pepperoni stromboli//one veggie stromboli###"}
+{"prompt": "Could I replace the hot dog with a bratwurst?", "completion": " 4 one hot dog//one bratwurst###"}
+{"prompt": "Can I change the BLT sandwich for a club sandwich?", "completion": " 4 one BLT sandwich//one club sandwich###"}
+{"prompt": "Could I swap the mushroom risotto for a seafood risotto?", "completion": " 4 one mushroom risotto//one seafood risotto###"}
+{"prompt": "Can I replace the potato chips with tortilla chips?", "completion": " 4 one serving of potato chips//one serving of tortilla chips###"}
+{"prompt": "Actually, I'd rather have a raspberry lemonade instead of a peach iced tea.", "completion": " 4 one peach iced tea//one raspberry lemonade###"}
+{"prompt": "Can I change the double cheeseburger for a bacon cheeseburger?", "completion": " 4 one double cheeseburger//one bacon cheeseburger###"}
+{"prompt": "Could you replace my quinoa salad with a Caesar salad?", "completion": " 4 one quinoa salad//one Caesar salad###"}
+{"prompt": "Can I switch the pancakes for French toast?", "completion": " 4 one serving of pancakes//one serving of French toast###"}
+{"prompt": "Actually, could I get a chocolate croissant instead of a plain one?", "completion": " 4 one plain croissant//one chocolate croissant###"}
+{"prompt": "I don't want the cheese pizza anymore.", "completion": " 5 one cheese pizza###"}
+{"prompt": "Can you remove the chocolate cake from my order?", "completion": " 5 one chocolate cake###"}
+{"prompt": "Actually, I don't want the Caesar salad.", "completion": " 5 one Caesar salad###"}
+{"prompt": "Please take off the beef burrito from my order.", "completion": " 5 one beef burrito###"}
+{"prompt": "I've changed my mind about the fish and chips.", "completion": " 5 one serving of fish and chips###"}
+{"prompt": "Cancel the strawberry milkshake.", "completion": " 5 one strawberry milkshake###"}
+{"prompt": "I don't need the tuna sandwich anymore.", "completion": " 5 one tuna sandwich###"}
+{"prompt": "Remove the chicken wings from my order, please.", "completion": " 5 one serving of chicken wings###"}
+{"prompt": "I've changed my mind about the fried rice.", "completion": " 5 one serving of fried rice###"}
+{"prompt": "Actually, I don't want the apple pie anymore.", "completion": " 5 one apple pie###"}
+{"prompt": "Please take the spaghetti off my order.", "completion": " 5 one spaghetti###"}
+{"prompt": "I don't need the club sandwich anymore.", "completion": " 5 one club sandwich###"}
+{"prompt": "Can you remove the hot dog from my order?", "completion": " 5 one hot dog###"}
+{"prompt": "Cancel the clam chowder.", "completion": " 5 one clam chowder###"}
+{"prompt": "I don't want the chicken nuggets anymore.", "completion": " 5 one serving of chicken nuggets###"}
+{"prompt": "Please take off the lasagna from my order.", "completion": " 5 one lasagna###"}
+{"prompt": "I've changed my mind about the steak.", "completion": " 5 one steak###"}
+{"prompt": "Actually, I don't want the cheeseburger anymore.", "completion": " 5 one cheeseburger###"}
+{"prompt": "Please remove the garlic bread from my order.", "completion": " 5 one serving of garlic bread###"}
+{"prompt": "I don't need the Greek salad anymore.", "completion": " 5 one Greek salad###"}
+{"prompt": "Can you remove the potato salad from my order?", "completion": " 5 one serving of potato salad###"}
+{"prompt": "Cancel the chocolate chip cookies.", "completion": " 5 one serving of chocolate chip cookies###"}
+{"prompt": "I don't want the French fries anymore.", "completion": " 5 one serving of French fries###"}
+{"prompt": "Please take off the mocha from my order.", "completion": " 5 one mocha###"}
+{"prompt": "I've changed my mind about the bagel.", "completion": " 5 one bagel###"}
+{"prompt": "Actually, I don't want the mango smoothie anymore.", "completion": " 5 one mango smoothie###"}
+{"prompt": "Please remove the hummus from my order.", "completion": " 5 one serving of hummus###"}
+{"prompt": "I don't need the blueberry muffin anymore.", "completion": " 5 one blueberry muffin###"}
+{"prompt": "Can you remove the beef taco from my order?", "completion": " 5 one beef taco###"}
+{"prompt": "Cancel the shrimp scampi.", "completion": " 5 one serving of shrimp scampi###"}
+{"prompt": "I don't want the raspberry tart anymore.", "completion": " 5 one raspberry tart###"}
+{"prompt": "Please take off the turkey club from my order.", "completion": " 5 one turkey club###"}
+{"prompt": "I've changed my mind about the lemonade.", "completion": " 5 one lemonade###"}
+{"prompt": "Actually, I don't want the spaghetti bolognese anymore.", "completion": " 5 one spaghetti bolognese###"}
+{"prompt": "Please remove the chicken soup from my order.", "completion": " 5 one chicken soup###"}
+{"prompt": "I don't need the pancakes anymore.", "completion": " 5 one serving of pancakes###"}
+{"prompt": "Can you remove the omelette from my order?", "completion": " 5 one omelette###"}
+{"prompt": "Cancel the chicken Caesar wrap.", "completion": " 5 one chicken Caesar wrap###"}
+{"prompt": "I don't want the clam pasta anymore.", "completion": " 5 one serving of clam pasta###"}
+{"prompt": "Please take off the corn chowder from my order.", "completion": " 5 one corn chowder###"}
+{"prompt": "I don't want the Caesar salad or the chicken soup anymore.", "completion": " 5 one Caesar salad, one chicken soup###"}
+{"prompt": "Actually, take off the spaghetti and the garlic bread from my order.", "completion": " 5 one spaghetti, one serving of garlic bread###"}
+{"prompt": "Can you remove the hot dog and the potato salad from my order?", "completion": " 5 one hot dog, one serving of potato salad###"}
+{"prompt": "I've changed my mind about the fish and chips and the apple pie.", "completion": " 5 one serving of fish and chips, one apple pie###"}
+{"prompt": "I don't need the tuna sandwich and the clam chowder anymore.", "completion": " 5 one tuna sandwich, one clam chowder###"}
+{"prompt": "Can you remove the chocolate cake and the strawberry milkshake from my order?", "completion": " 5 one chocolate cake, one strawberry milkshake###"}
+{"prompt": "Actually, I don't want the beef burrito and the nachos anymore.", "completion": " 5 one beef burrito, one serving of nachos###"}
+{"prompt": "Please take off the chicken wings and the French fries from my order.", "completion": " 5 one serving of chicken wings, one serving of French fries###"}
+{"prompt": "I've changed my mind about the fried rice and the spring rolls.", "completion": " 5 one serving of fried rice, one serving of spring rolls###"}
+{"prompt": "Can you remove the club sandwich and the potato chips from my order?", "completion": " 5 one club sandwich, one serving of potato chips###"}
+{"prompt": "I don't need the hot dog and the onion rings anymore.", "completion": " 5 one hot dog, one serving of onion rings###"}
+{"prompt": "Actually, I don't want the clam chowder and the lobster roll anymore.", "completion": " 5 one clam chowder, one lobster roll###"}
+{"prompt": "Please take off the chicken nuggets and the BBQ ribs from my order.", "completion": " 5 one serving of chicken nuggets, one serving of BBQ ribs###"}
+{"prompt": "I've changed my mind about the steak and the mashed potatoes.", "completion": " 5 one steak, one serving of mashed potatoes###"}
+{"prompt": "Can you remove the cheeseburger and the milkshake from my order?", "completion": " 5 one cheeseburger, one milkshake###"}
+{"prompt": "I don't need the Greek salad and the pita bread anymore.", "completion": " 5 one Greek salad, one serving of pita bread###"}
+{"prompt": "Actually, I don't want the potato salad and the grilled chicken anymore.", "completion": " 5 one serving of potato salad, one grilled chicken###"}
+{"prompt": "Please take off the chocolate chip cookies and the brownie from my order.", "completion": " 5 one serving of chocolate chip cookies, one brownie###"}
+{"prompt": "I've changed my mind about the French fries and the cheese sticks.", "completion": " 5 one serving of French fries, one serving of cheese sticks###"}
+{"prompt": "Can you remove the mocha and the blueberry muffin from my order?", "completion": " 5 one mocha, one blueberry muffin###"}
+{"prompt": "I don't need the bagel and the cream cheese anymore.", "completion": " 5 one bagel, one serving of cream cheese###"}
+{"prompt": "Actually, I don't want the mango smoothie and the breakfast burrito anymore.", "completion": " 5 one mango smoothie, one breakfast burrito###"}
+{"prompt": "Please take off the hummus and the falafel from my order.", "completion": " 5 one serving of hummus, one serving of falafel###"}
+{"prompt": "I've changed my mind about the pancakes and the bacon.", "completion": " 5 one serving of pancakes, one serving of bacon###"}
+{"prompt": "Can you remove the omelette and the toast from my order?", "completion": " 5 one omelette, one serving of toast###"}
+{"prompt": "I don't want the chicken Caesar wrap and the garden salad anymore.", "completion": " 5 one chicken Caesar wrap, one garden salad###"}
+{"prompt": "Actually, I don't want the clam pasta and the garlic knots anymore.", "completion": " 5 one serving of clam pasta, one serving of garlic knots###"}
+{"prompt": "Please take off the corn chowder and the crab cakes from my order.", "completion": " 5 one corn chowder, one serving of crab cakes###"}
+{"prompt": "I've changed my mind about the fajitas and the churros.", "completion": " 5 one serving of fajitas, one serving of churros###"}
+{"prompt": "Can you remove the chicken parmesan and the tiramisu from my order?", "completion": " 5 one chicken parmesan, one tiramisu###"}
+{"prompt": "I don't want the chicken tikka masala and the naan anymore.", "completion": " 5 one chicken tikka masala, one serving of naan###"}
+{"prompt": "Please, I no longer want the pad thai.", "completion": " 5 one serving of pad thai###"}
+{"prompt": "I've decided to go without the raspberry tart and the bagel.", "completion": " 5 one raspberry tart, one bagel###"}
+{"prompt": "No more fish and chips for me, thanks.", "completion": " 5 one serving of fish and chips###"}
+{"prompt": "Could you please take out the hot dog and the French fries from my order?", "completion": " 5 one hot dog, one serving of French fries###"}
+{"prompt": "Actually, I'd like to cancel the spaghetti.", "completion": " 5 one spaghetti###"}
+{"prompt": "On second thought, I'm not feeling like having the chicken soup and the Greek salad.", "completion": " 5 one chicken soup, one Greek salad###"}
+{"prompt": "I think I'll pass on the cheeseburger.", "completion": " 5 one cheeseburger###"}
+{"prompt": "I don't want the mocha or the blueberry muffin anymore.", "completion": " 5 one mocha, one blueberry muffin###"}
+{"prompt": "Cancel the hummus from my order, please.", "completion": " 5 one serving of hummus###"}
+{"prompt": "I'm not really in the mood for beef burrito and nachos anymore.", "completion": " 5 one beef burrito, one serving of nachos###"}
+{"prompt": "Scratch the chocolate cake, if you could.", "completion": " 5 one chocolate cake###"}
+{"prompt": "Please remove the Caesar salad and the club sandwich from my order.", "completion": " 5 one Caesar salad, one club sandwich###"}
+{"prompt": "I've changed my mind about the chicken wings.", "completion": " 5 one serving of chicken wings###"}
+{"prompt": "Can we take off the garlic bread and the lasagna from my order?", "completion": " 5 one serving of garlic bread, one lasagna###"}
+{"prompt": "I don't want the steak anymore.", "completion": " 5 one steak###"}
+{"prompt": "Actually, remove the potato salad and the grilled chicken, please.", "completion": " 5 one serving of potato salad, one grilled chicken###"}
+{"prompt": "Please cancel the apple pie from my order.", "completion": " 5 one apple pie###"}
+{"prompt": "I'd like to change my mind about the omelette and the toast.", "completion": " 5 one omelette, one serving of toast###"}
+{"prompt": "Could you please take off the mango smoothie?", "completion": " 5 one mango smoothie###"}
+{"prompt": "Actually, no more chicken Caesar wrap or garden salad for me.", "completion": " 5 one chicken Caesar wrap, one garden salad###"}
+{"prompt": "I don't need the corn chowder anymore.", "completion": " 5 one corn chowder###"}
+{"prompt": "Can you take out the fajitas and the churros from my order?", "completion": " 5 one serving of fajitas, one serving of churros###"}
+{"prompt": "I've changed my mind, cancel the chocolate chip cookies.", "completion": " 5 one serving of chocolate chip cookies###"}
+{"prompt": "No more chicken tikka masala and naan, thanks.", "completion": " 5 one chicken tikka masala, one serving of naan###"}
+{"prompt": "Actually, I don't want the strawberry milkshake anymore.", "completion": " 5 one strawberry milkshake###"}
+{"prompt": "Could you please take out the beef taco and the salsa from my order?", "completion": " 5 one beef taco, one serving of salsa###"}
+{"prompt": "I've decided to go without the clam chowder.", "completion": " 5 one clam chowder###"}
+{"prompt": "Please, I no longer want the bagel and the cream cheese.", "completion": " 5 one bagel, one serving of cream cheese###"}
+{"prompt": "I'm interested in knowing the price for your vegan burger and also want to know if your pasta alfredo is vegetarian.", "completion": " 6 price(vegan burger), vegetarian(pasta alfredo)###"}
+{"prompt": "Tell me the cost of your chef's salad and the ingredients of your margherita pizza.", "completion": " 6 price(chef's salad), ingredients(margherita pizza)###"}
+{"prompt": "I need the price for the club sandwich and also all your vegetarian dishes.", "completion": " 6 price(club sandwich), vegetarian(*)###"}
+{"prompt": "Can I know the ingredients in your seafood paella and if it's suitable for vegetarians?", "completion": " 6 ingredients(seafood paella), vegetarian(seafood paella)###"}
+{"prompt": "What's the price for your chocolate cake and also the ingredients in your Caesar salad?", "completion": " 6 price(chocolate cake), ingredients(Caesar salad)###"}
+{"prompt": "How much does the beef burrito cost and can you tell me if your soups are vegetarian?", "completion": " 6 price(beef burrito), vegetarian(soup)###"}
+{"prompt": "Can I have the cost for the chicken wings and are your salads all vegetarian?", "completion": " 6 price(chicken wings), vegetarian(salads)###"}
+{"prompt": "What goes into your sushi platter and how much does it cost?", "completion": " 6 ingredients(sushi platter), price(sushi platter)###"}
+{"prompt": "Can you tell me the price of the clam chowder and if the vegetable stir fry is vegetarian?", "completion": " 6 price(clam chowder), vegetarian(vegetable stir fry)###"}
+{"prompt": "What are the ingredients in your BBQ ribs and can you give me the price as well?", "completion": " 6 ingredients(BBQ ribs), price(BBQ ribs)###"}
+{"prompt": "Can you let me know what's in your pasta carbonara and how much it costs?", "completion": " 6 ingredients(pasta carbonara), price(pasta carbonara)###"}
+{"prompt": "Mate, what's the damage for the fish and chips and is it good for veggies?", "completion": " 6 price(fish and chips), vegetarian(fish and chips)###"}
+{"prompt": "Hey, what's the cost of the veggie sandwich and all your veggie dishes?", "completion": " 6 price(veggie sandwich), vegetarian(*)###"}
+{"prompt": "Can you tell me what's in your mushroom risotto and if it's veggie-friendly?", "completion": " 6 ingredients(mushroom risotto), vegetarian(mushroom risotto)###"}
+{"prompt": "Avast, ye matey! How much be the grog and what's in the treasure chest cookie?", "completion": " 6 price(grog), ingredients(treasure chest cookie)###"}
+{"prompt": "Hey there, how much will the blueberry muffins cost me and are they suitable for vegetarians?", "completion": " 6 price(blueberry muffins), vegetarian(blueberry muffins)###"}
+{"prompt": "What does your veggie pizza have on it and how much does it set me back?", "completion": " 6 ingredients(veggie pizza), price(veggie pizza)###"}
+{"prompt": "I'd like to know the price of the Caesar salad and if your pasta dishes are vegetarian.", "completion": " 6 price(Caesar salad), vegetarian(pasta)###"}
+{"prompt": "Can you tell me the cost of the Greek yogurt parfait and also if your breakfast options are vegetarian?", "completion": " 6 price(Greek yogurt parfait), vegetarian(breakfast)###"}
+{"prompt": "Oi, what's in your meat lover's pizza and what's the price tag?", "completion": " 6 ingredients(meat lover's pizza), price(meat lover's pizza)###"}
+{"prompt": "How much are the nachos, and what exactly is in your Philly cheesesteak?", "completion": " 6 price(nachos), ingredients(Philly cheesesteak)###"}
+{"prompt": "I'm keen on the prices for your apple pie and all vegetarian meals.", "completion": " 6 price(apple pie), vegetarian(*)###"}
+{"prompt": "What's the damage for the shepherd's pie, mate? Oh, and is it vegetarian?", "completion": " 6 price(shepherd's pie), vegetarian(shepherd's pie)###"}
+{"prompt": "Tell me the price for your chili dogs, and can you list all the vegetarian dishes?", "completion": " 6 price(chili dogs), vegetarian(*)###"}
+{"prompt": "I need the price for the chicken tikka masala and also if your bread is vegetarian.", "completion": " 6 price(chicken tikka masala), vegetarian(bread)###"}
+{"prompt": "What's the cost of the bacon cheeseburger, and what are the ingredients of your lasagna?", "completion": " 6 price(bacon cheeseburger), ingredients(lasagna)###"}
+{"prompt": "Can I know the ingredients in your tofu scramble and if it's suitable for vegetarians?", "completion": " 6 ingredients(tofu scramble), vegetarian(tofu scramble)###"}
+{"prompt": "What's the price for your cheesecake, and can you tell me what goes into your hot fudge sundae?", "completion": " 6 price(cheesecake), ingredients(hot fudge sundae)###"}
+{"prompt": "How much does the spicy tuna roll cost, and can you tell me if your desserts are vegetarian?", "completion": " 6 price(spicy tuna roll), vegetarian(desserts)###"}
+{"prompt": "Can I have the cost for the banana smoothie and are your smoothies all vegetarian?", "completion": " 6 price(banana smoothie), vegetarian(smoothies)###"}
+{"prompt": "I'm curious about the price of the mushroom risotto and if it is vegetarian?", "completion": " 6 price(mushroom risotto), vegetarian(mushroom risotto)###"}
+{"prompt": "Hey, what's the price of the chocolate mousse and is it vegetarian?", "completion": " 6 price(chocolate mousse), vegetarian(chocolate mousse)###"}
+{"prompt": "Can you tell me what ingredients you use in your pesto pasta and how much it costs?", "completion": " 6 ingredients(pesto pasta), price(pesto pasta)###"}
+{"prompt": "I'd like to know the price for the raspberry lemonade and if it's vegetarian.", "completion": " 6 price(raspberry lemonade), vegetarian(raspberry lemonade)###"}
+{"prompt": "Can you tell me the cost of the grilled salmon and what ingredients are in the seafood platter?", "completion": " 6 price(grilled salmon), ingredients(seafood platter)###"}
+{"prompt": "What's the price of the shrimp scampi and can you tell me if your pastas are vegetarian?", "completion": " 6 price(shrimp scampi), vegetarian(pastas)###"}
+{"prompt": "Can I have the price for the smoked salmon bagel and the ingredients of the breakfast burrito?", "completion": " 6 price(smoked salmon bagel), ingredients(breakfast burrito)###"}
+{"prompt": "Can you tell me the price of the spicy chicken wings and if your appetizers are vegetarian?", "completion": " 6 price(spicy chicken wings), vegetarian(appetizers)###"}
+{"prompt": "What are the ingredients in your BBQ ribs and how much does it cost?", "completion": " 6 ingredients(BBQ ribs), price(BBQ ribs)###"}
+{"prompt": "Can I know the cost of your eggplant parmesan and if it is suitable for vegetarians?", "completion": " 6 price(eggplant parmesan), vegetarian(eggplant parmesan)###"}
+{"prompt": "What's in your garden salad and how much does it cost?", "completion": " 6 ingredients(garden salad), price(garden salad)###"}
+{"prompt": "How much are the blueberry pancakes and are they vegetarian?", "completion": " 6 price(blueberry pancakes), vegetarian(blueberry pancakes)###"}
+{"prompt": "I'm interested in the price of your caramel macchiato and if it's vegetarian.", "completion": " 6 price(caramel macchiato), vegetarian(caramel macchiato)###"}
+{"prompt": "Can you tell me what's in your berry smoothie and how much it costs?", "completion": " 6 ingredients(berry smoothie), price(berry smoothie)###"}
+{"prompt": "What does the chicken parmesan cost and is it vegetarian?", "completion": " 6 price(chicken parmesan), vegetarian(chicken parmesan)###"}
+{"prompt": "Could I get the price of your green salad and the ingredients of your vegetable stir fry?", "completion": " 6 price(green salad), ingredients(vegetable stir fry)###"}
+{"prompt": "Can you tell me how much the mozzarella sticks cost and if they're vegetarian?", "completion": " 6 price(mozzarella sticks), vegetarian(mozzarella sticks)###"}
+{"prompt": "What's in the grilled cheese sandwich and how much does it cost?", "completion": " 6 ingredients(grilled cheese sandwich), price(grilled cheese sandwich)###"}
+{"prompt": "I'd like to know the cost of your mixed berry pie and if it's vegetarian.", "completion": " 6 price(mixed berry pie), vegetarian(mixed berry pie)###"}
+{"prompt": "Can you tell me the price of the avocado toast and what ingredients are in it?", "completion": " 6 price(avocado toast), ingredients(avocado toast)###"}
+{"prompt": "What's the price of the apple cider and is it vegetarian?", "completion": " 6 price(apple cider), vegetarian(apple cider)###"}
+{"prompt": "I'm curious about the cost of your turkey club sandwich and what's in it?", "completion": " 6 price(turkey club sandwich), ingredients(turkey club sandwich)###"}
+{"prompt": "What's in your roast beef sandwich and how much does it cost?", "completion": " 6 ingredients(roast beef sandwich), price(roast beef sandwich)###"}
+{"prompt": "I'm interested in the price of your clam chowder and if it's vegetarian.", "completion": " 6 price(clam chowder), vegetarian(clam chowder)###"}
+{"prompt": "Could you tell me what ingredients are in your quiche Lorraine and how much it costs?", "completion": " 6 ingredients(quiche Lorraine), price(quiche Lorraine)###"}
+{"prompt": "What's the cost of your French onion soup and is it vegetarian?", "completion": " 6 price(French onion soup), vegetarian(French onion soup)###"}
+{"prompt": "Can you tell me the price of your beef stew and what's in it?", "completion": " 6 price(beef stew), ingredients(beef stew)###"}
+{"prompt": "I'm curious about the cost of your huevos rancheros and if it's vegetarian.", "completion": " 6 price(huevos rancheros), vegetarian(huevos rancheros)###"}
+{"prompt": "Could I know what's in your Greek salad and how much it costs?", "completion": " 6 ingredients(Greek salad), price(Greek salad)###"}
+{"prompt": "What's the price of your vanilla milkshake and is it vegetarian?", "completion": " 6 price(vanilla milkshake), vegetarian(vanilla milkshake)###"}
+{"prompt": "Can you tell me the ingredients of your fettuccine Alfredo and how much it costs?", "completion": " 6 ingredients(fettuccine Alfredo), price(fettuccine Alfredo)###"}
+{"prompt": "What's the cost of your margherita pizza and is it vegetarian?", "completion": " 6 price(margherita pizza), vegetarian(margherita pizza)###"}
+{"prompt": "Could you tell me what's in your black forest cake and how much it costs?", "completion": " 6 ingredients(black forest cake), price(black forest cake)###"}
+{"prompt": "I'm interested in the price of your cappuccino and if it's vegetarian.", "completion": " 6 price(cappuccino), vegetarian(cappuccino)###"}
+{"prompt": "Can you tell me the ingredients of your spinach dip and how much it costs?", "completion": " 6 ingredients(spinach dip), price(spinach dip)###"}
+{"prompt": "What's the cost of your fish and chips and is it vegetarian?", "completion": " 6 price(fish and chips), vegetarian(fish and chips)###"}
+{"prompt": "Could you tell me what's in your prime rib and how much it costs?", "completion": " 6 ingredients(prime rib), price(prime rib)###"}
+{"prompt": "I'm curious about the price of your egg salad sandwich and if it's vegetarian.", "completion": " 6 price(egg salad sandwich), vegetarian(egg salad sandwich)###"}
+{"prompt": "Can you tell me the ingredients of your butternut squash soup and how much it costs?", "completion": " 6 ingredients(butternut squash soup), price(butternut squash soup)###"}
+{"prompt": "What's the price of your lobster roll and is it vegetarian?", "completion": " 6 price(lobster roll), vegetarian(lobster roll)###"}
+{"prompt": "Could you tell me what's in your beet salad and how much it costs?", "completion": " 6 ingredients(beet salad), price(beet salad)###"}
+{"prompt": "I'm interested in the price of your shrimp cocktail and if it's vegetarian.", "completion": " 6 price(shrimp cocktail), vegetarian(shrimp cocktail)###"}
+{"prompt": "Can you tell me the ingredients of your chicken Caesar salad and how much it costs?", "completion": " 6 ingredients(chicken Caesar salad), price(chicken Caesar salad)###"}
+{"prompt": "What's the cost of your raspberry iced tea and is it vegetarian?", "completion": " 6 price(raspberry iced tea), vegetarian(raspberry iced tea)###"}
+{"prompt": "Could you tell me what's in your grilled shrimp and how much it costs?", "completion": " 6 ingredients(grilled shrimp), price(grilled shrimp)###"}
+{"prompt": "I'm curious about the price of your tomato soup and if it's vegetarian.", "completion": " 6 price(tomato soup), vegetarian(tomato soup)###"}
+{"prompt": "Can you tell me the ingredients of your beef stir fry and how much it costs?", "completion": " 6 ingredients(beef stir fry), price(beef stir fry)###"}
+{"prompt": "What's the cost of your mango smoothie and is it vegetarian?", "completion": " 6 price(mango smoothie), vegetarian(mango smoothie)###"}
+{"prompt": "Could you tell me what's in your egg and cheese omelette and how much it costs?", "completion": " 6 ingredients(egg and cheese omelette), price(egg and cheese omelette)###"}
+{"prompt": "I'm interested in the price of your minestrone soup and if it's vegetarian.", "completion": " 6 price(minestrone soup), vegetarian(minestrone soup)###"}
+{"prompt": "Can you tell me the ingredients of your chocolate chip cookie and how much it costs?", "completion": " 6 ingredients(chocolate chip cookie), price(chocolate chip cookie)###"}
+{"prompt": "What's the cost of your strawberry milkshake and is it vegetarian?", "completion": " 6 price(strawberry milkshake), vegetarian(strawberry milkshake)###"}
+{"prompt": "Could you tell me what's in your chicken curry and how much it costs?", "completion": " 6 ingredients(chicken curry), price(chicken curry)###"}
+{"prompt": "I'm curious about the price of your French toast and if it's vegetarian.", "completion": " 6 price(French toast), vegetarian(French toast)###"}
+{"prompt": "Can you tell me the ingredients of your paella and how much it costs?", "completion": " 6 ingredients(paella), price(paella)###"}
+{"prompt": "What's the cost of your bagel with cream cheese and is it vegetarian?", "completion": " 6 price(bagel with cream cheese), vegetarian(bagel with cream cheese)###"}
+{"prompt": "Could you tell me what's in your potato salad and how much it costs?", "completion": " 6 ingredients(potato salad), price(potato salad)###"}
+{"prompt": "I'm interested in the price of your coconut cake and if it's vegetarian.", "completion": " 6 price(coconut cake), vegetarian(coconut cake)###"}
+{"prompt": "Can you tell me the ingredients of your spinach and cheese ravioli and how much it costs?", "completion": " 6 ingredients(spinach and cheese ravioli), price(spinach and cheese ravioli)###"}
+{"prompt": "What's the cost of your caesar salad and is it vegetarian?", "completion": " 6 price(caesar salad), vegetarian(caesar salad)###"}
+{"prompt": "Could you tell me what's in your apple pie and how much it costs?", "completion": " 6 ingredients(apple pie), price(apple pie)###"}
+{"prompt": "I'm curious about the price of your peach cobbler and if it's vegetarian.", "completion": " 6 price(peach cobbler), vegetarian(peach cobbler)###"}
+{"prompt": "Can you tell me the ingredients of your beef nachos and how much it costs?", "completion": " 6 ingredients(beef nachos), price(beef nachos)###"}
+{"prompt": "What's the cost of your tofu stir fry and is it vegetarian?", "completion": " 6 price(tofu stir fry), vegetarian(tofu stir fry)###"}
+{"prompt": "Could you tell me what's in your strawberry cheesecake and how much it costs?", "completion": " 6 ingredients(strawberry cheesecake), price(strawberry cheesecake)###"}
+{"prompt": "I'm interested in the price of your clam pasta and if it's vegetarian.", "completion": " 6 price(clam pasta), vegetarian(clam pasta)###"}
+{"prompt": "Can you tell me the ingredients of your chicken and waffles and how much it costs?", "completion": " 6 ingredients(chicken and waffles), price(chicken and waffles)###"}
+{"prompt": "What's the cost of your banana split and is it vegetarian?", "completion": " 6 price(banana split), vegetarian(banana split)###"}
+{"prompt": "Could you tell me what's in your veggie burger and how much it costs?", "completion": " 6 ingredients(veggie burger), price(veggie burger)###"}
+{"prompt": "I'm curious about the price of your green tea and if it's vegetarian.", "completion": " 6 price(green tea), vegetarian(green tea)###"}
+{"prompt": "Can I get the pasta with extra cheese and no mushrooms?", "completion": " 7 //pasta +cheese, -mushrooms###"}
+{"prompt": "I'd like my burger with no pickles and extra bacon.", "completion": " 7 //burger -pickles, +bacon###"}
+{"prompt": "Can you add extra veggies to my pizza and hold the olives?", "completion": " 7 //pizza +veggies, -olives###"}
+{"prompt": "Could you add chicken to my Caesar salad and hold the anchovies?", "completion": " 7 //Caesar salad +chicken, -anchovies###"}
+{"prompt": "Could I get my burrito with extra guacamole and no beans?", "completion": " 7 //burrito +guacamole, -beans###"}
+{"prompt": "Can I have the hot dog with extra mustard and no ketchup?", "completion": " 7 //hot dog +mustard, -ketchup###"}
+{"prompt": "Can you add spinach to my omelette and hold the cheese?", "completion": " 7 //omelette +spinach, -cheese###"}
+{"prompt": "I'd like the falafel wrap with extra tahini and no tomatoes.", "completion": " 7 //falafel wrap +tahini, -tomatoes###"}
+{"prompt": "Could I get the steak with extra pepper and no salt?", "completion": " 7 //steak +pepper, -salt###"}
+{"prompt": "Can you add extra sour cream to my baked potato and hold the chives?", "completion": " 7 //baked potato +sour cream, -chives###"}
+{"prompt": "Could I have the club sandwich with extra turkey and no bacon?", "completion": " 7 //club sandwich +turkey, -bacon###"}
+{"prompt": "Can I have the nachos with extra cheese and no jalapeños?", "completion": " 7 //nachos +cheese, -jalapeños###"}
+{"prompt": "Could you add extra syrup to my pancakes and hold the butter?", "completion": " 7 //pancakes +syrup, -butter###"}
+{"prompt": "I'd like the lobster roll with extra mayo and no lettuce.", "completion": " 7 //lobster roll +mayo, -lettuce###"}
+{"prompt": "Can you add mushrooms to my stir-fry and hold the tofu?", "completion": " 7 //stir-fry +mushrooms, -tofu###"}
+{"prompt": "Could I get the grilled cheese sandwich with extra cheese and no tomato?", "completion": " 7 //grilled cheese sandwich +cheese, -tomato###"}
+{"prompt": "Can you add blue cheese to my salad and hold the olives?", "completion": " 7 //salad +blue cheese, -olives###"}
+{"prompt": "Can I have the spaghetti with extra meatballs and no parsley?", "completion": " 7 //spaghetti +meatballs, -parsley###"}
+{"prompt": "Could you add extra onions to my curry and hold the cilantro?", "completion": " 7 //curry +onions, -cilantro###"}
+{"prompt": "I'd like the quesadilla with extra cheese and no sour cream.", "completion": " 7 //quesadilla +cheese, -sour cream###"}
+{"prompt": "Can you add extra shrimp to my pad thai and hold the peanuts?", "completion": " 7 //pad thai +shrimp, -peanuts###"}
+{"prompt": "Could I get the sushi roll with extra avocado and no cucumber?", "completion": " 7 //sushi roll +avocado, -cucumber###"}
+{"prompt": "Can I have the smoothie with extra bananas and no strawberries?", "completion": " 7 //smoothie +bananas, -strawberries###"}
+{"prompt": "Could you add bacon to my mac and cheese and hold the bread crumbs?", "completion": " 7 //mac and cheese +bacon, -bread crumbs###"}
+{"prompt": "I'd like the chili with extra cheese and no onions.", "completion": " 7 //chili +cheese, -onions###"}
+{"prompt": "Can you add whipped cream to my hot chocolate and hold the marshmallows?", "completion": " 7 //hot chocolate +whipped cream, -marshmallows###"}
+{"prompt": "Could I get the roast beef sandwich with extra mayo and no tomatoes?", "completion": " 7 //roast beef sandwich +mayo, -tomatoes###"}
+{"prompt": "Can I have the fajitas with extra guacamole and no bell peppers?", "completion": " 7 //fajitas +guacamole, -bell peppers###"}
+{"prompt": "Could you add extra olives to my Greek salad and hold the feta?", "completion": " 7 //Greek salad +olives, -feta###"}
+{"prompt": "I'd like the fried rice with extra shrimp and no peas.", "completion": " 7 //fried rice +shrimp, -peas###"}
+{"prompt": "Can you add caramel sauce to my ice cream sundae and hold the nuts?", "completion": " 7 //ice cream sundae +caramel sauce, -nuts###"}
+{"prompt": "Could I get the BBQ chicken pizza with extra BBQ sauce and no onions?", "completion": " 7 //BBQ chicken pizza +BBQ sauce, -onions###"}
+{"prompt": "Can I have the Philly cheesesteak with extra cheese and no mushrooms?", "completion": " 7 //Philly cheesesteak +cheese, -mushrooms###"}
+{"prompt": "Could you add spinach to my lasagna and hold the meat?", "completion": " 7 //lasagna +spinach, -meat###"}
+{"prompt": "I'd like the chicken alfredo with extra sauce and no parsley.", "completion": " 7 //chicken alfredo +sauce, -parsley###"}
+{"prompt": "Can you add gravy to my mashed potatoes and hold the chives?", "completion": " 7 //mashed potatoes +gravy, -chives###"}
+{"prompt": "Could I get the ribs with extra BBQ sauce and no coleslaw?", "completion": " 7 //ribs +BBQ sauce, -coleslaw###"}
+{"prompt": "Can I have the bento box with extra sushi and no tempura?", "completion": " 7 //bento box +sushi, -tempura###"}
+{"prompt": "Could you add extra whipped cream to my cheesecake and hold the cherry?", "completion": " 7 //cheesecake +whipped cream, -cherry###"}
+{"prompt": "I'd like the banh mi with extra cilantro and no pickles.", "completion": " 7 //banh mi +cilantro, -pickles###"}
+{"prompt": "Can you add extra caramel to my frappuccino and hold the whipped cream?", "completion": " 7 //frappuccino +caramel, -whipped cream###"}
+{"prompt": "Could I get the Philly roll with extra cream cheese and no avocado?", "completion": " 7 //Philly roll +cream cheese, -avocado###"}
+{"prompt": "Can I have the shrimp scampi with extra garlic and no parsley?", "completion": " 7 //shrimp scampi +garlic, -parsley###"}
+{"prompt": "Could you add chocolate chips to my banana bread and hold the walnuts?", "completion": " 7 //banana bread +chocolate chips, -walnuts###"}
+{"prompt": "I'd like the chicken parmesan with extra cheese and no basil.", "completion": " 7 //chicken parmesan +cheese, -basil###"}
+{"prompt": "Can you add extra gravy to my biscuits and hold the butter?", "completion": " 7 //biscuits +gravy, -butter###"}
+{"prompt": "Could I get the egg sandwich with extra bacon and no cheese?", "completion": " 7 //egg sandwich +bacon, -cheese###"}
+{"prompt": "Can I have the lobster bisque with extra cream and no chives?", "completion": " 7 //lobster bisque +cream, -chives###"}
+{"prompt": "Could you add extra fudge to my brownie and hold the nuts?", "completion": " 7 //brownie +fudge, -nuts###"}
+{"prompt": "I'd like the mozzarella sticks with extra marinara sauce and no parsley.", "completion": " 7 //mozzarella sticks +marinara sauce, -parsley###"}
+{"prompt": "I'd like my coffee with extra cream and no sugar.", "completion": " 7 //coffee +cream, -sugar###"}
+{"prompt": "Can you add green peppers to my veggie pizza and hold the olives?", "completion": " 7 //veggie pizza +green peppers, -olives###"}
+{"prompt": "Could I have the pad thai with extra peanuts and no egg?", "completion": " 7 //pad thai +peanuts, -egg###"}
+{"prompt": "Can I get the fish and chips with extra tartar sauce and no lemon?", "completion": " 7 //fish and chips +tartar sauce, -lemon###"}
+{"prompt": "Could you add extra bacon to my BLT and hold the lettuce?", "completion": " 7 //BLT +bacon, -lettuce###"}
+{"prompt": "I'd like the sweet and sour chicken with extra pineapple and no bell peppers.", "completion": " 7 //sweet and sour chicken +pineapple, -bell peppers###"}
+{"prompt": "Can you add avocado to my Caesar salad and hold the croutons?", "completion": " 7 //Caesar salad +avocado, -croutons###"}
+{"prompt": "Could I get the enchiladas with extra cheese and no onions?", "completion": " 7 //enchiladas +cheese, -onions###"}
+{"prompt": "Can I have the chicken noodle soup with extra noodles and no carrots?", "completion": " 7 //chicken noodle soup +noodles, -carrots###"}
+{"prompt": "Could you add extra chocolate chips to my pancakes and hold the syrup?", "completion": " 7 //pancakes +chocolate chips, -syrup###"}
+{"prompt": "I'd like the fried chicken with extra gravy and no coleslaw.", "completion": " 7 //fried chicken +gravy, -coleslaw###"}
+{"prompt": "Can you add extra meat to my nachos and hold the jalapenos?", "completion": " 7 //nachos +meat, -jalapenos###"}
+{"prompt": "Could I get the steak and eggs with extra eggs and no toast?", "completion": " 7 //steak and eggs +eggs, -toast###"}
+{"prompt": "Can I have the grilled cheese sandwich with extra tomato and no ham?", "completion": " 7 //grilled cheese sandwich +tomato, -ham###"}
+{"prompt": "Could you add extra pickles to my pastrami sandwich and hold the mustard?", "completion": " 7 //pastrami sandwich +pickles, -mustard###"}
+{"prompt": "I'd like the gyro with extra tzatziki sauce and no tomatoes.", "completion": " 7 //gyro +tzatziki sauce, -tomatoes###"}
+{"prompt": "Can you add extra strawberries to my fruit salad and hold the bananas?", "completion": " 7 //fruit salad +strawberries, -bananas###"}
+{"prompt": "Could I get the lamb curry with extra rice and no naan?", "completion": " 7 //lamb curry +rice, -naan###"}
+{"prompt": "Can I have the chicken pot pie with extra vegetables and no crust?", "completion": " 7 //chicken pot pie +vegetables, -crust###"}
+{"prompt": "Could you add extra cheese to my omelette and hold the ham?", "completion": " 7 //omelette +cheese, -ham###"}
+{"prompt": "I'd like the stir-fry with extra shrimp and no broccoli.", "completion": " 7 //stir-fry +shrimp, -broccoli###"}
+{"prompt": "Can you add extra caramel to my sundae and hold the cherries?", "completion": " 7 //sundae +caramel, -cherries###"}
+{"prompt": "Could I get the sushi with extra ginger and no wasabi?", "completion": " 7 //sushi +ginger, -wasabi###"}
+{"prompt": "Can I have the pho with extra noodles and no bean sprouts?", "completion": " 7 //pho +noodles, -bean sprouts###"}
+{"prompt": "Could you add extra honey to my tea and hold the lemon?", "completion": " 7 //tea +honey, -lemon###"}
+{"prompt": "I'd like the club sandwich with extra turkey and no bacon.", "completion": " 7 //club sandwich +turkey, -bacon###"}
+{"prompt": "Can you add extra soy sauce to my dumplings and hold the vinegar?", "completion": " 7 //dumplings +soy sauce, -vinegar###"}
+{"prompt": "Could I get the spaghetti with extra meatballs and no garlic bread?", "completion": " 7 //spaghetti +meatballs, -garlic bread###"}
+{"prompt": "Can I have the chow mein with extra noodles and no soy sauce?", "completion": " 7 //chow mein +noodles, -soy sauce###"}
+{"prompt": "Could you add extra butter to my lobster and hold the lemon?", "completion": " 7 //lobster +butter, -lemon###"}
+{"prompt": "I'd like the hot dog with extra ketchup and no onions.", "completion": " 7 //hot dog +ketchup, -onions###"}
+{"prompt": "Can you add extra cilantro to my taco and hold the salsa?", "completion": " 7 //taco +cilantro, -salsa###"}
+{"prompt": "Could I get the egg roll with extra sweet and sour sauce and no hot mustard?", "completion": " 7 //egg roll +sweet and sour sauce, -hot mustard###"}
+{"prompt": "Can I have the poutine with extra cheese curds and no gravy?", "completion": " 7 //poutine +cheese curds, -gravy###"}
+{"prompt": "Could you add extra blue cheese to my buffalo wings and hold the celery?", "completion": " 7 //buffalo wings +blue cheese, -celery###"}
+{"prompt": "I'd like the quesadilla with extra sour cream and no guacamole.", "completion": " 7 //quesadilla +sour cream, -guacamole###"}
+{"prompt": "Can you add extra marshmallows to my hot chocolate and hold the whipped cream?", "completion": " 7 //hot chocolate +marshmallows, -whipped cream###"}
+{"prompt": "Could I get the Caesar wrap with extra chicken and no dressing?", "completion": " 7 //Caesar wrap +chicken, -dressing###"}
+{"prompt": "Can I have the ramen with extra pork and no seaweed?", "completion": " 7 //ramen +pork, -seaweed###"}
+{"prompt": "Could you add extra chocolate to my croissant and hold the powdered sugar?", "completion": " 7 //croissant +chocolate, -powdered sugar###"}
+{"prompt": "I'd like the burrito with extra guacamole and no beans.", "completion": " 7 //burrito +guacamole, -beans###"}
+{"prompt": "Can you add extra olives to my martini and hold the onion?", "completion": " 7 //martini +olives, -onion###"}
+{"prompt": "Could I get the clam chowder with extra clams and no potatoes?", "completion": " 7 //clam chowder +clams, -potatoes###"}
+{"prompt": "Can I have the waffles with extra syrup and no butter?", "completion": " 7 //waffles +syrup, -butter###"}
+{"prompt": "Could you add extra gravy to my roast beef and hold the horseradish?", "completion": " 7 //roast beef +gravy, -horseradish###"}
+{"prompt": "I'd like the spring roll with extra plum sauce and no hot mustard.", "completion": " 7 //spring roll +plum sauce, -hot mustard###"}
+{"prompt": "Can you add extra cheese to my tacos and hold the lettuce?", "completion": " 7 //tacos +cheese, -lettuce###"}
+{"prompt": "Could I get the pepperoni pizza with extra cheese and no black olives?", "completion": " 7 //pepperoni pizza +cheese, -black olives###"}
+{"prompt": "Can I have the chicken tikka masala with extra rice and no naan?", "completion": " 7 //chicken tikka masala +rice, -naan###"}
+{"prompt": "Could you add extra frosting to my cinnamon roll and hold the raisins?", "completion": " 7 //cinnamon roll +frosting, -raisins###"}
+{"prompt": "That's exactly what I was looking for.", "completion": " 8###"}
+{"prompt": "Yes, that's perfect.", "completion": " 8###"}
+{"prompt": "No, that's not right.", "completion": " 9###"}
+{"prompt": "No, that doesn't suit my dietary requirements.", "completion": " 9###"}
+{"prompt": "That's spot on!", "completion": " 8###"}
+{"prompt": "No, I think you've misunderstood my request.", "completion": " 9###"}
+{"prompt": "Yes, that's just as I ordered.", "completion": " 8###"}
+{"prompt": "No, there's something missing from my order.", "completion": " 9###"}
+{"prompt": "Yeah, you've nailed it!", "completion": " 8###"}
+{"prompt": "No, that's not what I asked for.", "completion": " 9###"}
+{"prompt": "Yes, that's correct.", "completion": " 8###"}
+{"prompt": "No, there's a mistake in the order.", "completion": " 9###"}
+{"prompt": "Yep, that's right.", "completion": " 8###"}
+{"prompt": "No, that's incorrect.", "completion": " 9###"}
+{"prompt": "Yes, you've got it right.", "completion": " 8###"}
+{"prompt": "No, there's an error in my order.", "completion": " 9###"}
+{"prompt": "Yes, that's exactly right.", "completion": " 8###"}
+{"prompt": "No, something's not right.", "completion": " 9###"}
+{"prompt": "Yes, that matches my request.", "completion": " 8###"}
+{"prompt": "No, I believe there's been a misunderstanding.", "completion": " 9###"}
+{"prompt": "Yes, that's just right.", "completion": " 8###"}
+{"prompt": "No, that's not according to my request.", "completion": " 9###"}
+{"prompt": "Yes, that meets my requirements.", "completion": " 8###"}
+{"prompt": "No, that's not up to my expectations.", "completion": " 9###"}
+{"prompt": "Yes, that's up to the mark.", "completion": " 8###"}
+{"prompt": "No, there's a discrepancy in my order.", "completion": " 9###"}
+{"prompt": "Yes, you've got it correct.", "completion": " 8###"}
+{"prompt": "No, there seems to be a mistake.", "completion": " 9###"}
+{"prompt": "Yes, that's in line with my order.", "completion": " 8###"}
+{"prompt": "No, I think there's a mix-up in my order.", "completion": " 9###"}
+{"prompt": "Yes, that's as per my expectations.", "completion": " 8###"}
+{"prompt": "No, there's something off with my order.", "completion": " 9###"}
+{"prompt": "Yes, that's according to my preference.", "completion": " 8###"}
+{"prompt": "No, there seems to be a confusion.", "completion": " 9###"}
+{"prompt": "Yes, that's in accordance with my order.", "completion": " 8###"}
+{"prompt": "No, that doesn't match with my order.", "completion": " 9###"}
+{"prompt": "Yes, that aligns with my request.", "completion": " 8###"}
+{"prompt": "No, there's an issue with my order.", "completion": " 9###"}
+{"prompt": "Yes, that's exactly as I requested.", "completion": " 8###"}
+{"prompt": "No, I don't think you've got it right.", "completion": " 9###"}
+{"prompt": "Yes, you've captured my request accurately.", "completion": " 8###"}
+{"prompt": "No, that's not quite right.", "completion": " 9###"}
+{"prompt": "Yes, that's precisely as I ordered.", "completion": " 8###"}
+{"prompt": "No, that's not as per my order.", "completion": " 9###"}
+{"prompt": "Yes, that's just as I wanted.", "completion": " 8###"}
+{"prompt": "No, there's something amiss in my order.", "completion": " 9###"}
+{"prompt": "Yes, that's the perfect order.", "completion": " 8###"}
+{"prompt": "No, there's a problem with my order.", "completion": " 9###"}
+{"prompt": "Yes, that's absolutely correct.", "completion": " 8###"}
+{"prompt": "No, that's not how I placed my order.", "completion": " 9###"}
+{"prompt": "That's right!", "completion": " 8###"}
+{"prompt": "Absolutely not!", "completion": " 9###"}
+{"prompt": "Yes, that hits the spot!", "completion": " 8###"}
+{"prompt": "No, this is not what I intended.", "completion": " 9###"}
+{"prompt": "You got it right!", "completion": " 8###"}
+{"prompt": "No, that's a misunderstanding.", "completion": " 9###"}
+{"prompt": "Yes, you read my mind!", "completion": " 8###"}
+{"prompt": "No, I think we're not on the same page.", "completion": " 9###"}
+{"prompt": "Yes, you've done a great job!", "completion": " 8###"}
+{"prompt": "No, there's been a slight mix-up.", "completion": " 9###"}
+{"prompt": "Yes, that's a perfect fit for my diet!", "completion": " 8###"}
+{"prompt": "No, there seems to be an error here.", "completion": " 9###"}
+{"prompt": "That's the ticket!", "completion": " 8###"}
+{"prompt": "No, there's been a slip-up.", "completion": " 9###"}
+{"prompt": "Yes, you've ticked all the boxes!", "completion": " 8###"}
+{"prompt": "No, this isn't quite right.", "completion": " 9###"}
+{"prompt": "That's spot-on!", "completion": " 8###"}
+{"prompt": "No, that's way off the mark.", "completion": " 9###"}
+{"prompt": "Yes, you've hit the bull's eye!", "completion": " 8###"}
+{"prompt": "No, I think you've got the wrong end of the stick.", "completion": " 9###"}
+{"prompt": "Yes, you're on the money!", "completion": " 8###"}
+{"prompt": "No, that's a bit wide of the mark.", "completion": " 9###"}
+{"prompt": "Yes, that's the long and short of it.", "completion": " 8###"}
+{"prompt": "No, I think you're barking up the wrong tree.", "completion": " 9###"}
+{"prompt": "Yes, that's on the ball!", "completion": " 8###"}
+{"prompt": "No, I'm afraid you're off base.", "completion": " 9###"}
+{"prompt": "Yes, that's as right as rain!", "completion": " 8###"}
+{"prompt": "No, there's been a fumble here.", "completion": " 9###"}
+{"prompt": "Yes, that's the real McCoy!", "completion": " 8###"}
+{"prompt": "No, I'm afraid you've got your wires crossed.", "completion": " 9###"}
+{"prompt": "Yes, you've hit the nail on the head!", "completion": " 8###"}
+{"prompt": "No, I think we're at cross purposes.", "completion": " 9###"}
+{"prompt": "Yes, you're bang on!", "completion": " 8###"}
+{"prompt": "No, I think we're not in sync.", "completion": " 9###"}
+{"prompt": "Yes, you're on the beam!", "completion": " 8###"}
+{"prompt": "No, that's not in line with my preferences.", "completion": " 9###"}
+{"prompt": "Yes, you've got the gist of it!", "completion": " 8###"}
+{"prompt": "No, I think you're in the weeds.", "completion": " 9###"}
+{"prompt": "Yes, you've cracked it!", "completion": " 8###"}
+{"prompt": "No, there's a spanner in the works.", "completion": " 9###"}
+{"prompt": "Yes, that's a home run!", "completion": " 8###"}
+{"prompt": "No, there's a snag.", "completion": " 9###"}
+{"prompt": "Yes, you've aced it!", "completion": " 8###"}
+{"prompt": "Yes, that's music to my ears!", "completion": " 8###"}
+{"prompt": "No, that's not quite harmonious.", "completion": " 9###"}
+{"prompt": "Yes, that's a winning shot!", "completion": " 8###"}
+{"prompt": "No, that's off-key.", "completion": " 9###"}
+{"prompt": "Yes, that's a touchdown!", "completion": " 8###"}
+{"prompt": "No, we've fumbled the ball.", "completion": " 9###"}
+{"prompt": "Yes, that's the cherry on top!", "completion": " 8###"}
+{"prompt": "How's your day going?", "completion": " 0 Good, thanks!###"}
+{"prompt": "What's your favorite movie?", "completion": " 0 Hmm, that's a tough one!###"}
+{"prompt": "Do you have any plans for the weekend?", "completion": " 0 Not yet, still deciding!###"}
+{"prompt": "Have you tried that new restaurant downtown?", "completion": " 0 Yes, it's amazing!###"}
+{"prompt": "What's your favorite hobby?", "completion": " 0 I love reading and hiking!###"}
+{"prompt": "How do you like your coffee?", "completion": " 0 Black, no sugar!###"}
+{"prompt": "What's the best book you've read recently?", "completion": " 0 Oh, there are so many!###"}
+{"prompt": "Do you enjoy traveling?", "completion": " 0 Absolutely, it's my passion!###"}
+{"prompt": "What's your favorite type of music?", "completion": " 0 I listen to a bit of everything!###"}
+{"prompt": "Any exciting plans for the evening?", "completion": " 0 Just relaxing at home!###"}
+{"prompt": "What's your favorite food?", "completion": " 0 Pizza, definitely!###"}
+{"prompt": "How's the weather today?", "completion": " 0 It's sunny and warm!###"}
+{"prompt": "Do you have any pets?", "completion": " 0 Yes, I have a dog named Max!###"}
+{"prompt": "Have you seen any good movies lately?", "completion": " 0 I watched a great thriller last week!###"}
+{"prompt": "What's your favorite holiday destination?", "completion": " 0 I love the beach, any coastal place!###"}
+{"prompt": "Do you enjoy cooking?", "completion": " 0 Yes, I love experimenting in the kitchen!###"}
+{"prompt": "What's your favorite season?", "completion": " 0 I enjoy the cozy vibes of autumn!###"}
+{"prompt": "Do you follow any sports?", "completion": " 0 Yes, I'm a big soccer fan!###"}
+{"prompt": "What's your go-to relaxation activity?", "completion": " 0 I enjoy practicing yoga!###"}
+{"prompt": "Any interesting books you've read recently?", "completion": " 0 I highly recommend 'The Alchemist'!###"}
+{"prompt": "How do you like to spend your weekends?", "completion": " 0 I like exploring new places!###"}
+{"prompt": "What's your favorite type of cuisine?", "completion": " 0 I love Italian food!###"}
+{"prompt": "Do you have a favorite quote?", "completion": " 0 'Life is what happens when you're busy making other plans.' - John Lennon###"}
+{"prompt": "Are you a morning person or a night owl?", "completion": " 0 Definitely a night owl!###"}
+{"prompt": "What's your favorite board game?", "completion": " 0 I enjoy playing chess!###"}
+{"prompt": "Have you ever been to a live concert?", "completion": " 0 Yes, it was an incredible experience!###"}
+{"prompt": "Do you have any upcoming travel plans?", "completion": " 0 Yes, I'm going on a beach vacation next month!###"}
+{"prompt": "What's your favorite TV show?", "completion": " 0 I'm currently hooked on 'Game of Thrones'!###"}
+{"prompt": "Do you prefer tea or coffee?", "completion": " 0 I'm a coffee person through and through!###"}
+{"prompt": "What's your favorite ice cream flavor?", "completion": " 0 I can never resist chocolate chip cookie dough!###"}
+{"prompt": "Are you a fan of musicals?", "completion": " 0 Yes, I love watching live theater performances!###"}
+{"prompt": "Do you enjoy outdoor activities?", "completion": " 0 Absolutely, I love hiking and camping!###"}
+{"prompt": "What's the last concert you attended?", "completion": " 0 I saw my favorite band perform last month!###"}
+{"prompt": "Are you a fan of documentaries?", "completion": " 0 Yes, I find them fascinating!###"}
+{"prompt": "What's your favorite childhood memory?", "completion": " 0 Going on family vacations by the beach!###"}
+{"prompt": "Do you play any musical instruments?", "completion": " 0 Yes, I play the guitar!###"}
+{"prompt": "What's the most adventurous thing you've ever done?", "completion": " 0 Skydiving! It was incredible!###"}
+{"prompt": "Are you a fan of art?", "completion": " 0 Yes, I love visiting art galleries!###"}
+{"prompt": "What's your favorite type of dessert?", "completion": " 0 I can never resist a classic cheesecake!###"}
+{"prompt": "Do you have any favorite podcasts?", "completion": " 0 Yes, I love listening to true crime podcasts!###"}
+{"prompt": "What's your favorite holiday?", "completion": " 0 Christmas, the festive atmosphere is magical!###"}
+{"prompt": "Do you enjoy hiking in nature?", "completion": " 0 Absolutely, it's so refreshing!###"}
+{"prompt": "What's your favorite type of flower?", "completion": " 0 I love sunflowers, they're so vibrant!###"}
+{"prompt": "Are you a fan of comedy movies?", "completion": " 0 Yes, laughter is the best medicine!###"}
+{"prompt": "What's your favorite type of weather?", "completion": " 0 I enjoy a cool and breezy day!###"}
+{"prompt": "Do you have any hidden talents?", "completion": " 0 Well, I can juggle!###"}
+{"prompt": "What's the best piece of advice you've received?", "completion": " 0 'Follow your passion.'###"}
+{"prompt": "Are you a fan of online shopping?", "completion": " 0 Yes, it's so convenient!###"}
+{"prompt": "What's your favorite type of workout?", "completion": " 0 I enjoy yoga and pilates!###"}
+{"prompt": "Do you enjoy attending live sports events?", "completion": " 0 Yes, the energy is electrifying!###"}
+{"prompt": "What's your favorite type of art?", "completion": " 0 I'm a fan of abstract art!###"}
+{"prompt": "Do you have a favorite quote that inspires you?", "completion": " 0 'The future belongs to those who believe in the beauty of their dreams.' - Eleanor Roosevelt###"}
+{"prompt": "What's your favorite way to relax?", "completion": " 0 Curling up with a good book!###"}
+{"prompt": "Do you enjoy attending live theater performances?", "completion": " 0 Absolutely, the acting is incredible!###"}
+{"prompt": "What's your favorite type of cuisine to cook at home?", "completion": " 0 I enjoy cooking Italian dishes!###"}
+{"prompt": "Are you a fan of live music?", "completion": " 0 Yes, there's something magical about it!###"}
+{"prompt": "What's your favorite quote that motivates you?", "completion": " 0 'The only way to do great work is to love what you do.' - Steve Jobs###"}
+{"prompt": "Do you have any favorite hiking trails?", "completion": " 0 Yes, I love exploring national parks!###"}
+{"prompt": "What's your favorite type of pizza?", "completion": " 0 I can't resist a classic margherita!###"}
+{"prompt": "Are you a fan of science fiction movies?", "completion": " 0 Absolutely, I love the imaginative concepts!###"}
+{"prompt": "What's your favorite way to spend a lazy Sunday?", "completion": " 0 Binge-watching my favorite TV shows!###"}
+{"prompt": "Do you enjoy going to art exhibitions?", "completion": " 0 Yes, I find it inspiring!###"}
+{"prompt": "What's your favorite type of chocolate?", "completion": " 0 I can never say no to dark chocolate!###"}
+{"prompt": "Are you a fan of photography?", "completion": " 0 Yes, capturing moments is so important!###"}
+{"prompt": "What's your favorite type of outdoor activity?", "completion": " 0 I love going for bike rides!###"}
+{"prompt": "Do you have any favorite coffee shops?", "completion": " 0 Yes, I have a go-to spot!###"}
+{"prompt": "What's your favorite type of music to dance to?", "completion": " 0 I love grooving to upbeat pop songs!###"}
+{"prompt": "Are you a fan of classic literature?", "completion": " 0 Absolutely, I enjoy the timeless stories!###"}
+{"prompt": "What's your favorite way to start the day?", "completion": " 0 A cup of freshly brewed coffee!###"}
+{"prompt": "Do you enjoy going to art museums?", "completion": " 0 Yes, it's a feast for the eyes!###"}
+{"prompt": "What's your favorite type of cookie?", "completion": " 0 I love chewy chocolate chip cookies!###"}
+{"prompt": "Are you a fan of indie films?", "completion": " 0 Yes, I enjoy their unique storytelling!###"}
+{"prompt": "What's your favorite way to unwind after a long day?", "completion": " 0 Taking a relaxing bath!###"}
+{"prompt": "Do you enjoy going to music festivals?", "completion": " 0 Absolutely, the atmosphere is incredible!###"}
+{"prompt": "What's your favorite type of dance?", "completion": " 0 I enjoy salsa dancing!###"}
+{"prompt": "Are you a fan of contemporary art?", "completion": " 0 Yes, I find it thought-provoking!###"}
+{"prompt": "What's your favorite type of pie?", "completion": " 0 I can never resist a slice of apple pie!###"}
+{"prompt": "Do you enjoy going to live comedy shows?", "completion": " 0 Absolutely, laughter is the best medicine!###"}
+{"prompt": "What's your favorite way to stay active?", "completion": " 0 I enjoy going for runs!###"}
+{"prompt": "Are you a fan of musical theater?", "completion": " 0 Yes, I love the performances!###"}
+{"prompt": "What's your favorite way to spend a rainy day?", "completion": " 0 Snuggled up with a good book!###"}
+{"prompt": "Do you enjoy going to live sports events?", "completion": " 0 Absolutely, the energy is contagious!###"}
+{"prompt": "What's your favorite type of sushi?", "completion": " 0 I love salmon nigiri!###"}
+{"prompt": "Are you a fan of stand-up comedy?", "completion": " 0 Yes, it always brightens my day!###"}
+{"prompt": "What's your favorite way to stay fit?", "completion": " 0 I enjoy practicing yoga!###"}
+{"prompt": "Do you enjoy visiting historical landmarks?", "completion": " 0 Yes, it's a great way to learn about the past!###"}
+{"prompt": "What's your favorite type of pasta?", "completion": " 0 I can't resist a classic spaghetti carbonara!###"}
+{"prompt": "Are you a fan of documentaries?", "completion": " 0 Absolutely, they're so informative!###"}
+{"prompt": "What's your favorite way to spend a summer day?", "completion": " 0 Lounging by the pool!###"}
+{"prompt": "Do you enjoy going to music concerts?", "completion": " 0 Yes, the live performances are incredible!###"}
+{"prompt": "What's your favorite type of cheese?", "completion": " 0 I love a good aged cheddar!###"}
+{"prompt": "Are you a fan of action movies?", "completion": " 0 Absolutely, I enjoy the adrenaline rush!###"}
+{"prompt": "What's your favorite way to spend a winter evening?", "completion": " 0 Cozying up by the fireplace!###"}
+{"prompt": "Do you enjoy going to art galleries?", "completion": " 0 Yes, I find them inspiring!###"}
+{"prompt": "What's your favorite type of fruit?", "completion": " 0 I love juicy strawberries!###"}
+{"prompt": "Are you a fan of classic rock music?", "completion": " 0 Yes, I enjoy the timeless hits!###"}
+{"prompt": "What's your favorite way to stay motivated?", "completion": " 0 Setting achievable goals!###"}
+{"prompt": "Do you enjoy going to outdoor festivals?", "completion": " 0 Absolutely, the atmosphere is vibrant!###"}
+{"prompt": "What's your favorite type of bread?", "completion": " 0 I love a crusty sourdough!###"}
+{"prompt": "Are you a fan of romantic comedies?", "completion": " 0 Yes, they always bring a smile to my face!###"}
+{"prompt": "yes", "completion": " 8###"}
+{"prompt": "definitely", "completion": " 8###"}
+{"prompt": "absolutely", "completion": " 8###"}
+{"prompt": "sure", "completion": " 8###"}
+{"prompt": "without a doubt", "completion": " 8###"}
+{"prompt": "exactly", "completion": " 8###"}
+{"prompt": "no doubt", "completion": " 8###"}
+{"prompt": "certainly", "completion": " 8###"}
+{"prompt": "indeed", "completion": " 8###"}
+{"prompt": "you bet", "completion": " 8###"}
+{"prompt": "absolutely!", "completion": " 8###"}
+{"prompt": "for sure", "completion": " 8###"}
+{"prompt": "no question", "completion": " 8###"}
+{"prompt": "definitely!", "completion": " 8###"}
+{"prompt": "yep", "completion": " 8###"}
+{"prompt": "totally", "completion": " 8###"}
+{"prompt": "positively", "completion": " 8###"}
+{"prompt": "affirmative", "completion": " 8###"}
+{"prompt": "you got it", "completion": " 8###"}
+{"prompt": "absolutely right", "completion": " 8###"}
+{"prompt": "no doubt about it", "completion": " 8###"}
+{"prompt": "yes, indeed", "completion": " 8###"}
+{"prompt": "sure thing", "completion": " 8###"}
+{"prompt": "definitely yes", "completion": " 8###"}
+{"prompt": "absolutely sure", "completion": " 8###"}
+{"prompt": "without question", "completion": " 8###"}
+{"prompt": "no doubt at all", "completion": " 8###"}
+{"prompt": "certainly, no doubt", "completion": " 8###"}
+{"prompt": "indeed, that's correct", "completion": " 8###"}
+{"prompt": "you bet, that's right", "completion": " 8###"}
+{"prompt": "for sure, no question", "completion": " 8###"}
+{"prompt": "definitely, without a doubt", "completion": " 8###"}
+{"prompt": "yep, that's correct", "completion": " 8###"}
+{"prompt": "totally, that's right", "completion": " 8###"}
+{"prompt": "positively, no doubt", "completion": " 8###"}
+{"prompt": "affirmative, that's correct", "completion": " 8###"}
+{"prompt": "you got it, that's right", "completion": " 8###"}
+{"prompt": "absolutely right, without question", "completion": " 8###"}
+{"prompt": "no doubt about it, that's correct", "completion": " 8###"}
+{"prompt": "yes, indeed, that's right", "completion": " 8###"}
+{"prompt": "sure thing, no doubt", "completion": " 8###"}
+{"prompt": "definitely yes, that's correct", "completion": " 8###"}
+{"prompt": "absolutely sure, no doubt", "completion": " 8###"}
+{"prompt": "without question, that's correct", "completion": " 8###"}
+{"prompt": "no doubt at all, that's right", "completion": " 8###"}
+{"prompt": "certainly, no doubt, that's correct", "completion": " 8###"}
+{"prompt": "indeed, that's right, no doubt", "completion": " 8###"}
+{"prompt": "you bet, that's correct, without question", "completion": " 8###"}
+{"prompt": "for sure, no question, that's right", "completion": " 8###"}
+{"prompt": "definitely, without a doubt, that's correct", "completion": " 8###"}
+{"prompt": "no", "completion": " 9###"}
+{"prompt": "not really", "completion": " 9###"}
+{"prompt": "nope", "completion": " 9###"}
+{"prompt": "sorry, no", "completion": " 9###"}
+{"prompt": "unfortunately, no", "completion": " 9###"}
+{"prompt": "I'm afraid not", "completion": " 9###"}
+{"prompt": "no way", "completion": " 9###"}
+{"prompt": "negative", "completion": " 9###"}
+{"prompt": "not at all", "completion": " 9###"}
+{"prompt": "not really, sorry", "completion": " 9###"}
+{"prompt": "no, unfortunately", "completion": " 9###"}
+{"prompt": "nope, not at all", "completion": " 9###"}
+{"prompt": "I'm sorry, no", "completion": " 9###"}
+{"prompt": "regrettably, no", "completion": " 9###"}
+{"prompt": "I'm afraid not, sorry", "completion": " 9###"}
+{"prompt": "no way, not at all", "completion": " 9###"}
+{"prompt": "not really, I'm sorry", "completion": " 9###"}
+{"prompt": "no, unfortunately not", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry", "completion": " 9###"}
+{"prompt": "I'm sorry, no way", "completion": " 9###"}
+{"prompt": "regrettably, no chance", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all", "completion": " 9###"}
+{"prompt": "no, unfortunately, not at all", "completion": " 9###"}
+{"prompt": "nope, not a chance", "completion": " 9###"}
+{"prompt": "I'm sorry, definitely not", "completion": " 9###"}
+{"prompt": "regrettably, no way", "completion": " 9###"}
+{"prompt": "I'm afraid not, definitely not", "completion": " 9###"}
+{"prompt": "no, unfortunately, not a chance", "completion": " 9###"}
+{"prompt": "nope, not at all, definitely not", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all", "completion": " 9###"}
+{"prompt": "regrettably, no chance, not at all", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all, sorry", "completion": " 9###"}
+{"prompt": "no, unfortunately not, I'm sorry", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry, no chance", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all, unfortunately", "completion": " 9###"}
+{"prompt": "regrettably, no chance, not at all, sorry", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all, sorry, nope", "completion": " 9###"}
+{"prompt": "no, unfortunately not, I'm sorry, no way", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry, no chance, definitely not", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all, unfortunately, not a chance", "completion": " 9###"}
+{"prompt": "no", "completion": " 9###"}
+{"prompt": "nope", "completion": " 9###"}
+{"prompt": "sorry, no", "completion": " 9###"}
+{"prompt": "unfortunately, no", "completion": " 9###"}
+{"prompt": "not really", "completion": " 9###"}
+{"prompt": "I'm afraid not", "completion": " 9###"}
+{"prompt": "no way", "completion": " 9###"}
+{"prompt": "negative", "completion": " 9###"}
+{"prompt": "not at all", "completion": " 9###"}
+{"prompt": "no, sorry", "completion": " 9###"}
+{"prompt": "no chance", "completion": " 9###"}
+{"prompt": "nope, sorry", "completion": " 9###"}
+{"prompt": "unfortunately not", "completion": " 9###"}
+{"prompt": "I'm afraid not, sorry", "completion": " 9###"}
+{"prompt": "no way, not at all", "completion": " 9###"}
+{"prompt": "negative, sorry", "completion": " 9###"}
+{"prompt": "not at all, sorry", "completion": " 9###"}
+{"prompt": "no, unfortunately", "completion": " 9###"}
+{"prompt": "nope, not at all", "completion": " 9###"}
+{"prompt": "I'm sorry, no", "completion": " 9###"}
+{"prompt": "unfortunately, no way", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all", "completion": " 9###"}
+{"prompt": "no, unfortunately not", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry", "completion": " 9###"}
+{"prompt": "I'm sorry, no way", "completion": " 9###"}
+{"prompt": "unfortunately, not a chance", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all, sorry", "completion": " 9###"}
+{"prompt": "no, unfortunately not, sorry", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry, no way", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all", "completion": " 9###"}
+{"prompt": "unfortunately, not a chance, sorry", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all, sorry, nope", "completion": " 9###"}
+{"prompt": "no, unfortunately not, sorry, no way", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry, no chance", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all, unfortunately", "completion": " 9###"}
+{"prompt": "unfortunately, not a chance, sorry, no way", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all, sorry, nope", "completion": " 9###"}
+{"prompt": "no, unfortunately not, sorry, no way", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry, no chance, definitely not", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all, unfortunately, not a chance", "completion": " 9###"}
+{"prompt": "unfortunately, not a chance, sorry, no way, not at all", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all, sorry, nope, no way", "completion": " 9###"}
+{"prompt": "no, unfortunately not, sorry, no way, not a chance", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry, no chance, definitely not", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all, unfortunately, not a chance", "completion": " 9###"}
+{"prompt": "unfortunately, not a chance, sorry, no way, not at all", "completion": " 9###"}
+{"prompt": "I'm afraid not, not at all, sorry, nope, no way", "completion": " 9###"}
+{"prompt": "no, unfortunately not, sorry, no way, not a chance", "completion": " 9###"}
+{"prompt": "nope, not at all, sorry, no chance, definitely not", "completion": " 9###"}
+{"prompt": "I'm sorry, no way, not at all, unfortunately, not a chance", "completion": " 9###"}
+{"prompt": "yes", "completion": " 8###"}
+{"prompt": "yep", "completion": " 8###"}
+{"prompt": "sure", "completion": " 8###"}
+{"prompt": "absolutely", "completion": " 8###"}
+{"prompt": "definitely", "completion": " 8###"}
+{"prompt": "exactly", "completion": " 8###"}
+{"prompt": "certainly", "completion": " 8###"}
+{"prompt": "no doubt", "completion": " 8###"}
+{"prompt": "for sure", "completion": " 8###"}
+{"prompt": "without a doubt", "completion": " 8###"}
+{"prompt": "yeah", "completion": " 8###"}
+{"prompt": "yup", "completion": " 8###"}
+{"prompt": "of course", "completion": " 8###"}
+{"prompt": "definitely!", "completion": " 8###"}
+{"prompt": "sure thing", "completion": " 8###"}
+{"prompt": "no doubt at all", "completion": " 8###"}
+{"prompt": "you bet", "completion": " 8###"}
+{"prompt": "affirmative", "completion": " 8###"}
+{"prompt": "absolutely right", "completion": " 8###"}
+{"prompt": "yes, indeed", "completion": " 8###"}
+{"prompt": "no question", "completion": " 8###"}
+{"prompt": "absolutely sure", "completion": " 8###"}
+{"prompt": "no doubt about it", "completion": " 8###"}
+{"prompt": "definitely yes", "completion": " 8###"}
+{"prompt": "you got it", "completion": " 8###"}
+{"prompt": "without question", "completion": " 8###"}
+{"prompt": "no doubt, that's right", "completion": " 8###"}
+{"prompt": "indeed, that's right", "completion": " 8###"}
+{"prompt": "you bet, that's right", "completion": " 8###"}
+{"prompt": "for sure, that's right", "completion": " 8###"}
+{"prompt": "definitely, that's right", "completion": " 8###"}
+{"prompt": "yep, that's right", "completion": " 8###"}
+{"prompt": "of course, that's right", "completion": " 8###"}
+{"prompt": "sure thing, that's right", "completion": " 8###"}
+{"prompt": "no doubt at all, that's right", "completion": " 8###"}
+{"prompt": "you got it, that's right", "completion": " 8###"}
+{"prompt": "absolutely right, that's correct", "completion": " 8###"}
+{"prompt": "yes, indeed, that's correct", "completion": " 8###"}
+{"prompt": "no question, that's correct", "completion": " 8###"}
+{"prompt": "absolutely sure, that's correct", "completion": " 8###"}
+{"prompt": "no doubt about it, that's correct", "completion": " 8###"}
+{"prompt": "definitely yes, that's correct", "completion": " 8###"}
+{"prompt": "you got it, that's correct", "completion": " 8###"}
+{"prompt": "absolutely right, that's right", "completion": " 8###"}
+{"prompt": "yes, indeed, that's right", "completion": " 8###"}
+{"prompt": "no question, that's right", "completion": " 8###"}
+{"prompt": "absolutely sure, that's right", "completion": " 8###"}
+{"prompt": "no doubt about it, that's right", "completion": " 8###"}
+{"prompt": "definitely yes, that's right", "completion": " 8###"}
+{"prompt": "you got it, that's right", "completion": " 8###"}
+{"prompt": "I'd like a bowl of soup please", "completion": " 2 one bowl of soup.###"}
+{"prompt": "can you add a salad to that?", "completion": " 2 one salad.###"}
+{"prompt": "add two bottles of water to my order", "completion": " 2 two bottles of water.###"}
+{"prompt": "I'd also like three egg rolls", "completion": " 2 three egg rolls.###"}
+{"prompt": "can I have four cups of hot chocolate?", "completion": " 2 four cups of hot chocolate.###"}
+{"prompt": "please bring me a piece of cheesecake", "completion": " 2 one piece of cheesecake.###"}
+{"prompt": "I want two plates of pasta", "completion": " 2 two plates of pasta.###"}
+{"prompt": "could you get me a portion of fries?", "completion": " 2 one portion of fries.###"}
+{"prompt": "add a slice of pizza to my order", "completion": " 2 one slice of pizza.###"}
+{"prompt": "can you bring three croissants?", "completion": " 2 three croissants.###"}
+{"prompt": "I'd like to order a hamburger", "completion": " 2 one hamburger.###"}
+{"prompt": "please add a plate of sushi", "completion": " 2 one plate of sushi.###"}
+{"prompt": "can I have a beer?", "completion": " 2 one beer.###"}
+{"prompt": "two grilled chicken sandwiches please", "completion": " 2 two grilled chicken sandwiches.###"}
+{"prompt": "add a bottle of red wine to my order", "completion": " 2 one bottle of red wine.###"}
+{"prompt": "I'd like a coffee with my breakfast", "completion": " 2 one coffee.###"}
+{"prompt": "one order of chicken wings please", "completion": " 2 one order of chicken wings.###"}
+{"prompt": "can I get an iced tea?", "completion": " 2 one iced tea.###"}
+{"prompt": "I'd like to add two mojitos to my order", "completion": " 2 two mojitos.###"}
+{"prompt": "can you bring me a steak?", "completion": " 2 one steak.###"}
+{"prompt": "I want two portions of lasagna", "completion": " 2 two portions of lasagna.###"}
+{"prompt": "add a panini to my order please", "completion": " 2 one panini.###"}
+{"prompt": "can I have a root beer float?", "completion": " 2 one root beer float.###"}
+{"prompt": "please add a bowl of chili to my order", "completion": " 2 one bowl of chili.###"}
+{"prompt": "I'd like three scoops of ice cream", "completion": " 2 three scoops of ice cream.###"}
+{"prompt": "can I have a glass of milk?", "completion": " 2 one glass of milk.###"}
+{"prompt": "please bring me a blueberry muffin", "completion": " 2 one blueberry muffin.###"}
+{"prompt": "I'd like a Caesar salad", "completion": " 2 one Caesar salad.###"}
+{"prompt": "can you add a cappuccino to my order?", "completion": " 2 one cappuccino.###"}
+{"prompt": "I want a plate of shrimp", "completion": " 2 one plate of shrimp.###"}
+{"prompt": "add a slice of apple pie to my order", "completion": " 2 one slice of apple pie.###"}
+{"prompt": "can I have a hot dog?", "completion": " 2 one hot dog.###"}
+{"prompt": "I'd like to order two crepes", "completion": " 2 two crepes.###"}
+{"prompt": "please add a bottle of champagne", "completion": " 2 one bottle of champagne.###"}
+{"prompt": "can I have a strawberry smoothie?", "completion": " 2 one strawberry smoothie.###"}
+{"prompt": "I want a piece of chocolate cake", "completion": " 2 one piece of chocolate cake.###"}
+{"prompt": "add a glass of orange juice to my order", "completion": " 2 one glass of orange juice.###"}
+{"prompt": "I'd like a BLT sandwich", "completion": " 2 one BLT sandwich.###"}
+{"prompt": "can I have a plate of fish and chips?", "completion": " 2 one plate of fish and chips.###"}
+{"prompt": "please bring me a bowl of cereal", "completion": " 2 one bowl of cereal.###"}
+{"prompt": "I'd like to order a lobster", "completion": " 2 one lobster.###"}
+{"prompt": "add a pot of tea to my order", "completion": " 2 one pot of tea.###"}
+{"prompt": "can I have a club sandwich?", "completion": " 2 one club sandwich.###"}
+{"prompt": "I want two portions of chicken curry", "completion": " 2 two portions of chicken curry.###"}
+{"prompt": "please add a bag of chips", "completion": " 2 one bag of chips.###"}
+{"prompt": "can I have a vanilla milkshake?", "completion": " 2 one vanilla milkshake.###"}
+{"prompt": "I'd like a slice of carrot cake", "completion": " 2 one slice of carrot cake.###"}
+{"prompt": "add a basket of bread to my order", "completion": " 2 one basket of bread.###"}
+{"prompt": "can I have three tacos?", "completion": " 2 three tacos.###"}
+{"prompt": "I want a cup of espresso", "completion": " 2 one cup of espresso.###"}
+{"prompt": "can you bring me a bottle of cola?", "completion": " 2 one bottle of cola.###"}
+{"prompt": "I'd like a bowl of ramen", "completion": " 2 one bowl of ramen.###"}
+{"prompt": "add a bowl of rice to my order", "completion": " 2 one bowl of rice.###"}
+{"prompt": "can I have a turkey sandwich?", "completion": " 2 one turkey sandwich.###"}
+{"prompt": "I'd like to order two beef burritos", "completion": " 2 two beef burritos.###"}
+{"prompt": "please add a portion of onion rings", "completion": " 2 one portion of onion rings.###"}
+{"prompt": "can I have a latte?", "completion": " 2 one latte.###"}
+{"prompt": "I want a chocolate chip cookie", "completion": " 2 one chocolate chip cookie.###"}
+{"prompt": "add a bottle of mineral water to my order", "completion": " 2 one bottle of mineral water.###"}
+{"prompt": "can I have a muffin?", "completion": " 2 one muffin.###"}
+{"prompt": "I'd like a rack of ribs", "completion": " 2 one rack of ribs.###"}
+{"prompt": "add two pancakes to my order", "completion": " 2 two pancakes.###"}
+{"prompt": "can I have a bottle of lemonade?", "completion": " 2 one bottle of lemonade.###"}
+{"prompt": "I want a piece of brownie", "completion": " 2 one piece of brownie.###"}
+{"prompt": "please bring me a pot of coffee", "completion": " 2 one pot of coffee.###"}
+{"prompt": "I'd like to order a rack of lamb", "completion": " 2 one rack of lamb.###"}
+{"prompt": "add a bottle of beer to my order", "completion": " 2 one bottle of beer.###"}
+{"prompt": "can I have a vegetable stir fry?", "completion": " 2 one vegetable stir fry.###"}
+{"prompt": "I want a portion of chicken tenders", "completion": " 2 one portion of chicken tenders.###"}
+{"prompt": "please add a chocolate sundae", "completion": " 2 one chocolate sundae.###"}
+{"prompt": "can I have a can of soda?", "completion": " 2 one can of soda.###"}
+{"prompt": "I'd like a baked potato", "completion": " 2 one baked potato.###"}
+{"prompt": "add two slices of toast to my order", "completion": " 2 two slices of toast.###"}
+{"prompt": "can I have a ham sandwich?", "completion": " 2 one ham sandwich.###"}
+{"prompt": "I want a bowl of mac and cheese", "completion": " 2 one bowl of mac and cheese.###"}
+{"prompt": "please bring me a slice of quiche", "completion": " 2 one slice of quiche.###"}
+{"prompt": "I'd like to order a tuna salad", "completion": " 2 one tuna salad.###"}
+{"prompt": "add a bottle of white wine to my order", "completion": " 2 one bottle of white wine.###"}
+{"prompt": "can I have a fruit salad?", "completion": " 2 one fruit salad.###"}
+{"prompt": "I want a plate of nachos", "completion": " 2 one plate of nachos.###"}
+{"prompt": "please add a chicken Caesar wrap", "completion": " 2 one chicken Caesar wrap.###"}
+{"prompt": "can I have a green tea?", "completion": " 2 one green tea.###"}
+{"prompt": "I'd like a pastrami sandwich", "completion": " 2 one pastrami sandwich.###"}
+{"prompt": "add a bowl of tomato soup to my order", "completion": " 2 one bowl of tomato soup.###"}
+{"prompt": "can I have a cupcake?", "completion": " 2 one cupcake.###"}
+{"prompt": "I want a chocolate frappe", "completion": " 2 one chocolate frappe.###"}
+{"prompt": "please bring me a banana split", "completion": " 2 one banana split.###"}
+{"prompt": "I'd like to order a seafood platter", "completion": " 2 one seafood platter.###"}
+{"prompt": "add a plate of spaghetti bolognese to my order", "completion": " 2 one plate of spaghetti bolognese.###"}
+{"prompt": "can I have a clam chowder?", "completion": " 2 one clam chowder.###"}
+{"prompt": "I want a portion of onion soup", "completion": " 2 one portion of onion soup.###"}
+{"prompt": "please add a pina colada", "completion": " 2 one pina colada.###"}
+{"prompt": "can I have a Bloody Mary?", "completion": " 2 one Bloody Mary.###"}
+{"prompt": "I'd like a grilled cheese sandwich", "completion": " 2 one grilled cheese sandwich.###"}
+{"prompt": "add a bottle of apple juice to my order", "completion": " 2 one bottle of apple juice.###"}
+{"prompt": "can I have a margarita?", "completion": " 2 one margarita.###"}
+{"prompt": "I want a portion of garlic bread", "completion": " 2 one portion of garlic bread.###"}
+{"prompt": "please bring me a dozen of oysters", "completion": " 2 one dozen of oysters.###"}
+{"prompt": "I'd like to order a fish burger", "completion": " 2 one fish burger.###"}
+{"prompt": "add a mint julep to my order", "completion": " 2 one mint julep.###"}
+{"prompt": "What's in the mushroom soup?", "completion": " 6 ingredients(mushroom soup)###"}
+{"prompt": "Is the margherita pizza vegetarian?", "completion": " 6 vegetarian(margherita pizza)###"}
+{"prompt": "How much is the ribeye steak?", "completion": " 6 price(ribeye steak)###"}
+{"prompt": "Are the nachos gluten free?", "completion": " 6 gluten_free(nachos)###"}
+{"prompt": "What's the price for the garden salad?", "completion": " 6 price(garden salad)###"}
+{"prompt": "What are the ingredients in the chocolate cake?", "completion": " 6 ingredients(chocolate cake)###"}
+{"prompt": "Is the chicken curry gluten free?", "completion": " 6 gluten_free(chicken curry)###"}
+{"prompt": "Is the grilled cheese sandwich vegetarian?", "completion": " 6 vegetarian(grilled cheese sandwich)###"}
+{"prompt": "What's in the spicy tuna roll?", "completion": " 6 ingredients(spicy tuna roll)###"}
+{"prompt": "How much is the breakfast burrito?", "completion": " 6 price(breakfast burrito)###"}
+{"prompt": "Is the chocolate chip cookie gluten free?", "completion": " 6 gluten_free(chocolate chip cookie)###"}
+{"prompt": "What are the ingredients in the green smoothie?", "completion": " 6 ingredients(green smoothie)###"}
+{"prompt": "Is the Caesar salad vegetarian?", "completion": " 6 vegetarian(Caesar salad)###"}
+{"prompt": "How much is the lobster bisque?", "completion": " 6 price(lobster bisque)###"}
+{"prompt": "Are the spring rolls gluten free?", "completion": " 6 gluten_free(spring rolls)###"}
+{"prompt": "What's the price for the chicken parmesan?", "completion": " 6 price(chicken parmesan)###"}
+{"prompt": "What are the ingredients in the beef lasagna?", "completion": " 6 ingredients(beef lasagna)###"}
+{"prompt": "Is the clam chowder gluten free?", "completion": " 6 gluten_free(clam chowder)###"}
+{"prompt": "Is the eggplant parmigiana vegetarian?", "completion": " 6 vegetarian(eggplant parmigiana)###"}
+{"prompt": "What's in the veggie wrap?", "completion": " 6 ingredients(veggie wrap)###"}
+{"prompt": "How much is the roast beef sandwich?", "completion": " 6 price(roast beef sandwich)###"}
+{"prompt": "Is the tomato soup gluten free?", "completion": " 6 gluten_free(tomato soup)###"}
+{"prompt": "What are the ingredients in the fruit salad?", "completion": " 6 ingredients(fruit salad)###"}
+{"prompt": "Is the minestrone soup vegetarian?", "completion": " 6 vegetarian(minestrone soup)###"}
+{"prompt": "How much is the buffalo chicken pizza?", "completion": " 6 price(buffalo chicken pizza)###"}
+{"prompt": "Are the waffles gluten free?", "completion": " 6 gluten_free(waffles)###"}
+{"prompt": "What's the price for the shrimp cocktail?", "completion": " 6 price(shrimp cocktail)###"}
+{"prompt": "What are the ingredients in the caramel frappe?", "completion": " 6 ingredients(caramel frappe)###"}
+{"prompt": "Is the cobb salad gluten free?", "completion": " 6 gluten_free(cobb salad)###"}
+{"prompt": "Is the spinach quiche vegetarian?", "completion": " 6 vegetarian(spinach quiche)###"}
+{"prompt": "What's in the Philly cheesesteak sandwich?", "completion": " 6 ingredients(Philly cheesesteak sandwich)###"}
+{"prompt": "How much is the pan-seared salmon?", "completion": " 6 price(pan-seared salmon)###"}
+{"prompt": "Is the margarita pizza gluten free?", "completion": " 6 gluten_free(margarita pizza)###"}
+{"prompt": "What are the ingredients in the Caesar dressing?", "completion": " 6 ingredients(Caesar dressing)###"}
+{"prompt": "Is the chocolate mousse vegetarian?", "completion": " 6 vegetarian(chocolate mousse)###"}
+{"prompt": "How much is the chicken noodle soup?", "completion": " 6 price(chicken noodle soup)###"}
+{"prompt": "Are the fish and chips gluten free?", "completion": " 6 gluten_free(fish and chips)###"}
+{"prompt": "What's the price for the tofu stir-fry?", "completion": " 6 price(tofu stir-fry)###"}
+{"prompt": "What are the ingredients in the key lime pie?", "completion": " 6 ingredients(key lime pie)###"}
+{"prompt": "Is the red velvet cake gluten free?", "completion": " 6 gluten_free(red velvet cake)###"}
+{"prompt": "Is the Greek salad vegetarian?", "completion": " 6 vegetarian(Greek salad)###"}
+{"prompt": "What's in the chicken tikka masala?", "completion": " 6 ingredients(chicken tikka masala)###"}
+{"prompt": "How much is the grilled shrimp?", "completion": " 6 price(grilled shrimp)###"}
+{"prompt": "Is the quinoa salad gluten free?", "completion": " 6 gluten_free(quinoa salad)###"}
+{"prompt": "What are the ingredients in the veggie burger?", "completion": " 6 ingredients(veggie burger)###"}
+{"prompt": "Is the lentil soup vegetarian?", "completion": " 6 vegetarian(lentil soup)###"}
+{"prompt": "How much is the pad thai?", "completion": " 6 price(pad thai)###"}
+{"prompt": "Are the fried calamari gluten free?", "completion": " 6 gluten_free(fried calamari)###"}
+{"prompt": "What's the price for the honey-glazed chicken?", "completion": " 6 price(honey-glazed chicken)###"}
+{"prompt": "What are the ingredients in the tiramisu?", "completion": " 6 ingredients(tiramisu)###"}
+{"prompt": "Is the beef stew gluten free?", "completion": " 6 gluten_free(beef stew)###"}
+{"prompt": "Is the mushroom risotto vegetarian?", "completion": " 6 vegetarian(mushroom risotto)###"}
+{"prompt": "What's in the apple pie?", "completion": " 6 ingredients(apple pie)###"}
+{"prompt": "How much is the spaghetti carbonara?", "completion": " 6 price(spaghetti carbonara)###"}
+{"prompt": "Is the clam chowder gluten free?", "completion": " 6 gluten_free(clam chowder)###"}
+{"prompt": "What are the ingredients in the mango smoothie?", "completion": " 6 ingredients(mango smoothie)###"}
+{"prompt": "Is the ratatouille vegetarian?", "completion": " 6 vegetarian(ratatouille)###"}
+{"prompt": "How much is the turkey club sandwich?", "completion": " 6 price(turkey club sandwich)###"}
+{"prompt": "Are the onion rings gluten free?", "completion": " 6 gluten_free(onion rings)###"}
+{"prompt": "What's the price for the beef enchiladas?", "completion": " 6 price(beef enchiladas)###"}
+{"prompt": "What are the ingredients in the strawberry shortcake?", "completion": " 6 ingredients(strawberry shortcake)###"}
+{"prompt": "Is the New England clam chowder gluten free?", "completion": " 6 gluten_free(New England clam chowder)###"}
+{"prompt": "Is the veggie pizza vegetarian?", "completion": " 6 vegetarian(veggie pizza)###"}
+{"prompt": "What's in the gazpacho?", "completion": " 6 ingredients(gazpacho)###"}
+{"prompt": "How much is the seared ahi tuna?", "completion": " 6 price(seared ahi tuna)###"}
+{"prompt": "Is the bean burrito gluten free?", "completion": " 6 gluten_free(bean burrito)###"}
+{"prompt": "What are the ingredients in the raspberry sorbet?", "completion": " 6 ingredients(raspberry sorbet)###"}
+{"prompt": "Is the tomato basil soup vegetarian?", "completion": " 6 vegetarian(tomato basil soup)###"}
+{"prompt": "How much is the steak frites?", "completion": " 6 price(steak frites)###"}
+{"prompt": "Are the fish tacos gluten free?", "completion": " 6 gluten_free(fish tacos)###"}
+{"prompt": "What's the price for the caprese salad?", "completion": " 6 price(caprese salad)###"}
+{"prompt": "What are the ingredients in the French onion soup?", "completion": " 6 ingredients(French onion soup)###"}
+{"prompt": "Is the vegetable stir fry gluten free?", "completion": " 6 gluten_free(vegetable stir fry)###"}
+{"prompt": "Is the caponata vegetarian?", "completion": " 6 vegetarian(caponata)###"}
+{"prompt": "What's in the mojito?", "completion": " 6 ingredients(mojito)###"}
+{"prompt": "How much is the bison burger?", "completion": " 6 price(bison burger)###"}
+{"prompt": "Is the mushroom quiche gluten free?", "completion": " 6 gluten_free(mushroom quiche)###"}
+{"prompt": "What are the ingredients in the espresso martini?", "completion": " 6 ingredients(espresso martini)###"}
+{"prompt": "Is the caprese salad vegetarian?", "completion": " 6 vegetarian(caprese salad)###"}
+{"prompt": "How much is the paella?", "completion": " 6 price(paella)###"}
+{"prompt": "Are the nachos gluten free?", "completion": " 6 gluten_free(nachos)###"}
+{"prompt": "What's the price for the chocolate mousse cake?", "completion": " 6 price(chocolate mousse cake)###"}
+{"prompt": "What are the ingredients in the clam chowder?", "completion": " 6 ingredients(clam chowder)###"}
+{"prompt": "Is the pasta carbonara gluten free?", "completion": " 6 gluten_free(pasta carbonara)###"}
+{"prompt": "Is the falafel wrap vegetarian?", "completion": " 6 vegetarian(falafel wrap)###"}
+{"prompt": "What's in the guacamole?", "completion": " 6 ingredients(guacamole)###"}
+{"prompt": "How much is the mixed grill?", "completion": " 6 price(mixed grill)###"}
+{"prompt": "Is the ratatouille gluten free?", "completion": " 6 gluten_free(ratatouille)###"}
+{"prompt": "What are the ingredients in the margarita?", "completion": " 6 ingredients(margarita)###"}
+{"prompt": "Is the quiche lorraine vegetarian?", "completion": " 6 vegetarian(quiche lorraine)###"}
+{"prompt": "How much is the lobster roll?", "completion": " 6 price(lobster roll)###"}
+{"prompt": "Are the mozzarella sticks gluten free?", "completion": " 6 gluten_free(mozzarella sticks)###"}
+{"prompt": "What's the price for the escargot?", "completion": " 6 price(escargot)###"}
+{"prompt": "What are the ingredients in the baked ziti?", "completion": " 6 ingredients(baked ziti)###"}
+{"prompt": "Is the clam pasta gluten free?", "completion": " 6 gluten_free(clam pasta)###"}
+{"prompt": "Is the gazpacho vegetarian?", "completion": " 6 vegetarian(gazpacho)###"}
+{"prompt": "What's in the pico de gallo?", "completion": " 6 ingredients(pico de gallo)###"}
+{"prompt": "How much is the duck confit?", "completion": " 6 price(duck confit)###"}
+{"prompt": "Is the butternut squash soup gluten free?", "completion": " 6 gluten_free(butternut squash soup)###"}
+{"prompt": "What are the ingredients in the eggs Benedict?", "completion": " 6 ingredients(eggs Benedict)###"}

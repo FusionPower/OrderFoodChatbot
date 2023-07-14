@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: 'Fira Code', monospace;
+            color: #00FF00;
+        }
+        #chatbox {
+            width: 99; /* Set width to full viewport width */
+            height: 80vh; /* Set height to 90% of viewport height */
+            border: 1px solid white;
+            overflow: auto;
+        }
+        #inputArea {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 10px;
+        }
+        #userInput {
+            flex-grow: 1;
+            border-radius: 5px;
+            padding: 10px;
+            border: none;
+            margin-right: 10px;
+
+        }
+        .user {
+            text-align: left;
+        }
+        .chatbot {
+            text-align: right;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background: linear-gradient(to right, #00FF00, #a5e18b);
+            color: white;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            background: linear-gradient(to right, #ff5e62, #ff9966);
+        }
+
+        button:focus {
+            outline: none;
+        }
+        h1 {
+            text-align: center;
+            color: #00FF00;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>Order Your Favourite Food!</h1>
+    <div id="chatbox">
+        <!-- Chat messages will appear here -->
+    </div>
+    <div id="inputArea">
+        <input type="text" id="userInput">
+        <button onclick="sendUserInput()">Send</button>
+    </div>
+
+    <script>
+        function sendUserInput() {
+            var userInput = document.getElementById('userInput').value;
+            fetch('http://localhost:5000/', {
+                method: 'POST',
+                body: JSON.stringify({ 'text': userInput }),
+                headers: { 'Content-Type': 'application/json' },
+            })
+            .then(response => response.json())
+            .then(data => {
+                var chatbox = document.getElementById('chatbox');
+                var chatbotResponse = data.chatbot_response.replace(/\n/g, '<br/>');  // Replace '\n' with '<br/>'
+                chatbox.innerHTML += 'You: <br>' + userInput + '<br> <br>';
+                chatbox.innerHTML += 'Chatbot: <br>' + data.chatbot_response + '<br> <br>';
+                document.getElementById('userInput').value = '';  // clear the input field
+                chatbox.scrollTop = chatbox.scrollHeight;  // Scroll to the bottom
+
+            });
+        }
+    </script>
+</body>
+</html>

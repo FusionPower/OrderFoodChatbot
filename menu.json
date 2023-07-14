@@ -1,0 +1,123 @@
+{
+    "Vegetarian Pizza": {
+        "ingredients": ["Flour", "Yeast", "Salt", "Tomato Sauce", "Mozzarella", "Bell Peppers", "Mushrooms"],
+        "vegetarian": true,
+        "gluten_free": false,
+        "price": 14.99
+    },
+    "Gluten Free Pasta": {
+        "ingredients": ["Gluten Free Pasta", "Garlic", "Olive Oil", "Parmesan"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 16.99
+    },
+    "Steak": {
+        "ingredients": ["Beef Steak", "Salt", "Pepper", "Olive Oil", "Rosemary"],
+        "vegetarian": false,
+        "gluten_free": true,
+        "price": 25.99
+    },
+    "Fish and Chips": {
+        "ingredients": ["Fish", "Potatoes", "Salt", "Vinegar", "Flour", "Beer"],
+        "vegetarian": false,
+        "gluten_free": false,
+        "price": 19.99
+    },
+    "Vegetable Stir Fry": {
+        "ingredients": ["Broccoli", "Carrots", "Peppers", "Soy Sauce", "Tofu"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 13.99
+    },
+    "Chicken Parmesan": {
+        "ingredients": ["Chicken Breast", "Tomato Sauce", "Parmesan", "Pasta"],
+        "vegetarian": false,
+        "gluten_free": false,
+        "price": 18.99
+    },
+    "Pumpkin Soup": {
+        "ingredients": ["Pumpkin", "Onions", "Garlic", "Cream"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 7.99
+    },
+    "Beef Burger": {
+        "ingredients": ["Beef", "Bread", "Lettuce", "Tomato", "Onions"],
+        "vegetarian": false,
+        "gluten_free": false,
+        "price": 14.99
+    },
+    "Veggie Burger": {
+        "ingredients": ["Lentils", "Bread", "Lettuce", "Tomato", "Onions"],
+        "vegetarian": true,
+        "gluten_free": false,
+        "price": 12.99
+    },
+    "Grilled Cheese Sandwich": {
+        "ingredients": ["Bread", "Cheese", "Butter"],
+        "vegetarian": true,
+        "gluten_free": false,
+        "price": 6.99
+    },
+    "Fruit Salad": {
+        "ingredients": ["Apples", "Bananas", "Oranges", "Berries"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 8.99
+    },
+    "Chicken Caesar Salad": {
+        "ingredients": ["Chicken", "Romaine Lettuce", "Croutons", "Parmesan", "Caesar Dressing"],
+        "vegetarian": false,
+        "gluten_free": false,
+        "price": 11.99
+    },
+    "Spaghetti Bolognese": {
+        "ingredients": ["Spaghetti", "Minced Beef", "Tomato Sauce"],
+        "vegetarian": false,
+        "gluten_free": false,
+        "price": 15.99
+    },
+    "Lentil Soup": {
+        "ingredients": ["Lentils", "Carrots", "Onions", "Garlic"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 9.99
+    },
+    "Sushi Rolls": {
+        "ingredients": ["Rice", "Fish", "Seaweed"],
+        "vegetarian": false,
+        "gluten_free": true,
+        "price": 17.99
+    },
+    "Lemonade": {
+        "ingredients": ["Lemon Juice", "Sugar", "Water"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 2.99
+    },
+    "Cappuccino": {
+        "ingredients": ["Espresso", "Steamed Milk", "Foamed Milk"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 3.99
+    },
+    "Margarita": {
+        "ingredients": ["Tequila", "Triple Sec", "Lime Juice", "Salt"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 8.99
+    },
+    "Coke": {
+        "ingredients": ["Carbonated Water", "High Fructose Corn Syrup", "Caramel Color", "Phosphoric Acid", "Natural Flavors", "Caffeine"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 1.99
+    },
+    "Iced Tea": {
+        "ingredients": ["Tea", "Ice", "Lemon Slice"],
+        "vegetarian": true,
+        "gluten_free": true,
+        "price": 2.49
+    }
+
+}
