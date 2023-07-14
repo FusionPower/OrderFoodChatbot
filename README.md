@@ -4,6 +4,11 @@ This chatbot helps you make your order! Just fine-tune the model of your choice 
 This project was obtained by fine-funning an OpenAI model using their API.
 ![image](https://github.com/FusionPower/OrderFoodChatbot/assets/54119843/4ee20eae-e59e-49ca-85db-2ddf5103eaea)
 
+*Remember to set up your virtual environment with the requirements.txt file*
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+
 ## Overview
 The chatbot works by classifiying user requests into:
 0 conversation (general)
